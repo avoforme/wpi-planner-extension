@@ -1,3 +1,8 @@
+https://medium.com/@5tigerjelly/creating-a-chrome-extension-with-react-and-vite-boilerplate-provided-db3d14473bf6
+
+# building and running
+Make sure you have all node modules installed. Run npm run build to 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
