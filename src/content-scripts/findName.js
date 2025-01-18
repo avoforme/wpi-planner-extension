@@ -17,7 +17,6 @@ function doThing(elem) {
             /**CALL THINGS HERE, 'prof' is the Name of the professor. */
             console.log(prof)
             
-            
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
             break;
         }

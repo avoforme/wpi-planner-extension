@@ -1,0 +1,6698 @@
+[
+  [
+    2.9,
+    170,
+    "Glynis Hamel",
+    "Computer Science",
+    36,
+    3.5
+  ],
+  [
+    4.8,
+    143,
+    "Mihhail Berezovski",
+    "Mathematics",
+    "N/A",
+    1.9
+  ],
+  [
+    3,
+    135,
+    "Roger Lui",
+    "Mathematics",
+    59,
+    3.5
+  ],
+  [
+    4.8,
+    132,
+    "John Goulet",
+    "Mathematics",
+    93,
+    2.5
+  ],
+  [
+    2.5,
+    114,
+    "Herman Servatius",
+    "Mathematics",
+    34,
+    3.9
+  ],
+  [
+    3.4,
+    109,
+    "Mayer Humi",
+    "Mathematics",
+    42,
+    3.3
+  ],
+  [
+    4.4,
+    106,
+    "Sergey Makarov",
+    "Engineering",
+    94,
+    2.9
+  ],
+  [
+    2.8,
+    99,
+    "Dalin Tang",
+    "Mathematics",
+    47,
+    3
+  ],
+  [
+    4.3,
+    94,
+    "Qi Han",
+    "Mathematics",
+    100,
+    2.3
+  ],
+  [
+    3.1,
+    84,
+    "Vadim Yakovlev",
+    "Mathematics",
+    45,
+    3
+  ],
+  [
+    2.7,
+    78,
+    "George Phillies",
+    "Science",
+    0,
+    4.4
+  ],
+  [
+    1.7,
+    74,
+    "Shawn Burdette",
+    "Chemistry",
+    19,
+    4
+  ],
+  [
+    4,
+    72,
+    "Uma Kumar",
+    "Chemistry",
+    60,
+    2.8
+  ],
+  [
+    4.7,
+    69,
+    "Jon Abraham",
+    "Mathematics",
+    89,
+    2.6
+  ],
+  [
+    4.7,
+    69,
+    "David Adams",
+    "Science",
+    84,
+    3.3
+  ],
+  [
+    1.8,
+    67,
+    "Brigitte Servatius",
+    "Mathematics",
+    32,
+    3.6
+  ],
+  [
+    4.1,
+    67,
+    "Tatiana Doytchinova",
+    "Mathematics",
+    72,
+    3
+  ],
+  [
+    4.8,
+    66,
+    "William Farr",
+    "Mathematics",
+    100,
+    2.6
+  ],
+  [
+    2.9,
+    66,
+    "Michael Radzicki",
+    "Economics",
+    32,
+    3
+  ],
+  [
+    3.4,
+    61,
+    "Michael Ciaraldi",
+    "Computer Science",
+    42,
+    2.6
+  ],
+  [
+    2.1,
+    61,
+    "Konstantin Lurie",
+    "Mathematics",
+    6,
+    3.4
+  ],
+  [
+    3.7,
+    61,
+    "Hektor Kashuri",
+    "Physics",
+    86,
+    2.6
+  ],
+  [
+    3.4,
+    60,
+    "Makhlouf Makhlouf",
+    "Engineering",
+    67,
+    4
+  ],
+  [
+    4.7,
+    60,
+    "Marcel Blais",
+    "Mathematics",
+    97,
+    2.9
+  ],
+  [
+    4.3,
+    60,
+    "Destin Heilman",
+    "Chemistry",
+    85,
+    3.5
+  ],
+  [
+    3.9,
+    57,
+    "John Sanbonmatsu",
+    "Humanities",
+    63,
+    3.5
+  ],
+  [
+    4.2,
+    56,
+    "Michael Johnson",
+    "Mathematics",
+    100,
+    2.8
+  ],
+  [
+    4.7,
+    54,
+    "Mark Richman",
+    "Engineering",
+    88,
+    3.1
+  ],
+  [
+    2.8,
+    53,
+    "Burt Tilley",
+    "Mathematics",
+    29,
+    4
+  ],
+  [
+    3.1,
+    53,
+    "Suzanne Weekes",
+    "Mathematics",
+    50,
+    3.7
+  ],
+  [
+    3.2,
+    53,
+    "Padmanabhan Aravind",
+    "Science",
+    100,
+    2.7
+  ],
+  [
+    4.1,
+    53,
+    "Drew Brodeur",
+    "Chemistry",
+    72,
+    3.5
+  ],
+  [
+    4.5,
+    52,
+    "George Heineman",
+    "Computer Science",
+    100,
+    3.4
+  ],
+  [
+    2.2,
+    52,
+    "Richard Quimby",
+    "Science",
+    22,
+    3.7
+  ],
+  [
+    3.4,
+    52,
+    "James Pavlik",
+    "Science",
+    34,
+    4.3
+  ],
+  [
+    4.6,
+    52,
+    "Rudra Kafle",
+    "Physics",
+    92,
+    3.2
+  ],
+  [
+    4,
+    50,
+    "Kathryn Fisler",
+    "Computer Science",
+    75,
+    3.6
+  ],
+  [
+    2.4,
+    49,
+    "Jill Rulfs",
+    "Science",
+    35,
+    3.2
+  ],
+  [
+    3.7,
+    49,
+    "William Baller",
+    "History",
+    60,
+    2.2
+  ],
+  [
+    3.3,
+    49,
+    "Frank Dick",
+    "Physics",
+    74,
+    3.5
+  ],
+  [
+    4,
+    47,
+    "Zofia Glazer",
+    "Chemistry",
+    "N/A",
+    2.6
+  ],
+  [
+    3.5,
+    47,
+    "Nancy Burnham",
+    "Science",
+    23,
+    3.4
+  ],
+  [
+    4.5,
+    46,
+    "Stephen Bitar",
+    "Engineering",
+    100,
+    3.3
+  ],
+  [
+    4.6,
+    46,
+    "Bruce Bursten",
+    "Chemistry",
+    94,
+    3.6
+  ],
+  [
+    2.8,
+    45,
+    "Christopher Larsen",
+    "Mathematics",
+    34,
+    3.7
+  ],
+  [
+    4.3,
+    44,
+    "Alexander Emanuel",
+    "Engineering",
+    100,
+    3.3
+  ],
+  [
+    4.1,
+    44,
+    "Dina Rassias",
+    "Mathematics",
+    78,
+    3.1
+  ],
+  [
+    3.3,
+    44,
+    "Satya Shivkumar",
+    "Engineering",
+    30,
+    3.5
+  ],
+  [
+    4.3,
+    43,
+    "David Planchard",
+    "Engineering",
+    90,
+    3.8
+  ],
+  [
+    2.1,
+    42,
+    "Marcus Sarkis-Martins",
+    "Mathematics",
+    14,
+    3.3
+  ],
+  [
+    3.2,
+    41,
+    "James Dittami",
+    "Science",
+    31,
+    2.7
+  ],
+  [
+    4.4,
+    41,
+    "Joseph Fehribach",
+    "Mathematics",
+    92,
+    2.7
+  ],
+  [
+    4,
+    41,
+    "John MacDonald",
+    "Science",
+    93,
+    3.2
+  ],
+  [
+    3.8,
+    40,
+    "Farhod Abdullayev",
+    "Mathematics",
+    100,
+    3
+  ],
+  [
+    3.9,
+    40,
+    "Oleg Pavlov",
+    "Economics",
+    86,
+    2.6
+  ],
+  [
+    2.3,
+    39,
+    "Zhikun Hou",
+    "Engineering",
+    63,
+    2.9
+  ],
+  [
+    3.4,
+    39,
+    "William Martin",
+    "Mathematics",
+    25,
+    3.8
+  ],
+  [
+    4.5,
+    39,
+    "Dina Solitro",
+    "Mathematics",
+    "N/A",
+    1.7
+  ],
+  [
+    3.9,
+    39,
+    "Izabela Stroe",
+    "Physics",
+    70,
+    2.6
+  ],
+  [
+    3.2,
+    38,
+    "Blake Currier",
+    "Physics",
+    60,
+    3.4
+  ],
+  [
+    1.8,
+    38,
+    "Holly Ault",
+    "Engineering",
+    0,
+    3.9
+  ],
+  [
+    3.8,
+    37,
+    "William Sanguinet",
+    "Mathematics",
+    74,
+    3
+  ],
+  [
+    2.4,
+    37,
+    "Carolina Ruiz",
+    "Computer Science",
+    29,
+    4.5
+  ],
+  [
+    3.2,
+    37,
+    "William Michalson",
+    "Engineering",
+    50,
+    3.6
+  ],
+  [
+    2,
+    36,
+    "Mustapha Fofana",
+    "Engineering",
+    12,
+    3
+  ],
+  [
+    3.8,
+    36,
+    "Edward Clancy",
+    "Engineering",
+    67,
+    3.3
+  ],
+  [
+    4,
+    36,
+    "Gabor Sarkozy",
+    "Computer Science",
+    74,
+    2.8
+  ],
+  [
+    4.6,
+    36,
+    "Carolann Koleci",
+    "Science",
+    "N/A",
+    2.9
+  ],
+  [
+    3.6,
+    36,
+    "Snehalata Kadam",
+    "Physics",
+    82,
+    3.1
+  ],
+  [
+    4.9,
+    36,
+    "Angel Rivera",
+    "Humanities",
+    95,
+    3
+  ],
+  [
+    1.3,
+    36,
+    "Micha Hofri",
+    "Computer Science",
+    0,
+    4.6
+  ],
+  [
+    1.6,
+    35,
+    "Sabyasachi Sarkar",
+    "Physics",
+    20,
+    4.4
+  ],
+  [
+    2.1,
+    35,
+    "Joseph Petruccelli",
+    "Mathematics",
+    0,
+    3.5
+  ],
+  [
+    2.7,
+    34,
+    "Joshua Cuneo",
+    "Computer Science",
+    38,
+    3.6
+  ],
+  [
+    4.7,
+    34,
+    "Michael Engling",
+    "Computer Science",
+    95,
+    2.7
+  ],
+  [
+    1.8,
+    33,
+    "Therese Smith",
+    "Computer Science",
+    22,
+    3.3
+  ],
+  [
+    3.6,
+    33,
+    "Darko Volkov",
+    "Mathematics",
+    70,
+    3.2
+  ],
+  [
+    3.5,
+    33,
+    "Roger Gottlieb",
+    "Philosophy",
+    50,
+    2.9
+  ],
+  [
+    4.3,
+    33,
+    "Joseph Cullon",
+    "History",
+    89,
+    2.3
+  ],
+  [
+    3.4,
+    32,
+    "Christopher Lambert",
+    "Chemistry",
+    84,
+    4.1
+  ],
+  [
+    3.9,
+    32,
+    "Brian Savilonis",
+    "Engineering",
+    100,
+    2.4
+  ],
+  [
+    3.8,
+    32,
+    "Steven Bullock",
+    "History",
+    47,
+    3
+  ],
+  [
+    4.8,
+    32,
+    "Leonard Albano",
+    "Engineering",
+    100,
+    3.4
+  ],
+  [
+    4.1,
+    32,
+    "Ron Grimm",
+    "Chemistry",
+    89,
+    3.7
+  ],
+  [
+    3.4,
+    31,
+    "M. David Samson",
+    "Humanities",
+    67,
+    2.5
+  ],
+  [
+    3.5,
+    30,
+    "Dean O'Donnell",
+    "Theater",
+    100,
+    2
+  ],
+  [
+    3.2,
+    30,
+    "Hugh Lauer",
+    "Computer Science",
+    50,
+    4.1
+  ],
+  [
+    4.1,
+    30,
+    "Chrysanthe Demetry",
+    "Engineering",
+    "N/A",
+    3.3
+  ],
+  [
+    4.6,
+    30,
+    "Ingrid Matos-Nin",
+    "Languages",
+    89,
+    1.8
+  ],
+  [
+    4.2,
+    29,
+    "Daniel Dougherty",
+    "Computer Science",
+    67,
+    3.4
+  ],
+  [
+    2.2,
+    29,
+    "Nikos Gatsonis",
+    "Engineering",
+    29,
+    3.4
+  ],
+  [
+    3.7,
+    28,
+    "Gary Pollice",
+    "Computer Science",
+    23,
+    3.1
+  ],
+  [
+    2.6,
+    28,
+    "Robert Kinicki",
+    "Computer Science",
+    "N/A",
+    4.5
+  ],
+  [
+    4,
+    28,
+    "QI Wen",
+    "Physics",
+    74,
+    3
+  ],
+  [
+    4.8,
+    28,
+    "David Cyganski",
+    "Engineering",
+    100,
+    2.3
+  ],
+  [
+    4.5,
+    28,
+    "Michael Buckholt",
+    "Science",
+    91,
+    2
+  ],
+  [
+    5,
+    28,
+    "Robert Starr",
+    "Social Work",
+    100,
+    3.1
+  ],
+  [
+    3.3,
+    28,
+    "Eunmi Shim",
+    "Music",
+    84,
+    2.7
+  ],
+  [
+    2.8,
+    28,
+    "Susan Jarvis",
+    "Engineering",
+    0,
+    2.4
+  ],
+  [
+    4.2,
+    28,
+    "Margarita Halpine",
+    "Languages",
+    90,
+    3.1
+  ],
+  [
+    3.2,
+    28,
+    "Michael Smith",
+    "Mathematics",
+    58,
+    3.1
+  ],
+  [
+    3.6,
+    27,
+    "Marko Popovic",
+    "Physics",
+    64,
+    3.4
+  ],
+  [
+    2.5,
+    27,
+    "Cosme Furlong-Vazquez",
+    "Engineering",
+    25,
+    4.3
+  ],
+  [
+    3.5,
+    27,
+    "Huong Higgins",
+    "Business",
+    75,
+    2.5
+  ],
+  [
+    3.3,
+    27,
+    "Stanley Selkow",
+    "Computer Science",
+    "N/A",
+    3.2
+  ],
+  [
+    2.2,
+    27,
+    "Mack Hill",
+    "Mathematics",
+    "N/A",
+    3.4
+  ],
+  [
+    2.7,
+    27,
+    "Thelge Peiris",
+    "Mathematics",
+    42,
+    3.7
+  ],
+  [
+    3.4,
+    26,
+    "Joseph Duffy",
+    "Biology",
+    60,
+    3.6
+  ],
+  [
+    3.3,
+    26,
+    "Joseph Beck",
+    "Computer Science",
+    58,
+    2.9
+  ],
+  [
+    3.2,
+    25,
+    "Daniel Gibson",
+    "Science",
+    "N/A",
+    3
+  ],
+  [
+    4.4,
+    25,
+    "Michelle Ephraim",
+    "Humanities",
+    88,
+    3.1
+  ],
+  [
+    1.9,
+    25,
+    "John Wilkes",
+    "Social Science",
+    "N/A",
+    2.6
+  ],
+  [
+    2.4,
+    25,
+    "Isa Bar-On",
+    "Engineering",
+    50,
+    3
+  ],
+  [
+    2.8,
+    24,
+    "Hossein Hakim",
+    "Engineering",
+    "N/A",
+    3.5
+  ],
+  [
+    2.6,
+    24,
+    "Gloria Tashjian",
+    "Mathematics",
+    "N/A",
+    2.3
+  ],
+  [
+    4.3,
+    24,
+    "Susan Vick",
+    "English",
+    100,
+    2.7
+  ],
+  [
+    4.2,
+    24,
+    "Frederick Bianchi",
+    "Humanities",
+    63,
+    2.1
+  ],
+  [
+    3.7,
+    24,
+    "Georgios Dalakouras",
+    "Mathematics",
+    "N/A",
+    2.5
+  ],
+  [
+    2.7,
+    24,
+    "Joel Brattin",
+    "English",
+    38,
+    3.7
+  ],
+  [
+    4.8,
+    24,
+    "John McNeill",
+    "Engineering",
+    100,
+    3.2
+  ],
+  [
+    3.8,
+    24,
+    "Sarah Wodin-Schwartz",
+    "Engineering",
+    89,
+    3.3
+  ],
+  [
+    3.7,
+    23,
+    "Jianjun Huang",
+    "Mathematics",
+    100,
+    2.6
+  ],
+  [
+    4.2,
+    23,
+    "Mark Claypool",
+    "Computer Science",
+    100,
+    3.7
+  ],
+  [
+    2.2,
+    23,
+    "Samuel Walcott",
+    "Mathematics",
+    31,
+    4.4
+  ],
+  [
+    3.3,
+    23,
+    "Eben Cobb",
+    "Engineering",
+    0,
+    2.8
+  ],
+  [
+    3.6,
+    23,
+    "Qiao Zhuang",
+    "Mathematics",
+    70,
+    2.9
+  ],
+  [
+    3.6,
+    22,
+    "Minghao Rostami",
+    "Mathematics",
+    0,
+    2.4
+  ],
+  [
+    3.3,
+    22,
+    "Paul Mathisen",
+    "Engineering",
+    28,
+    2.9
+  ],
+  [
+    4.2,
+    22,
+    "James Hanlan",
+    "Humanities",
+    100,
+    2.4
+  ],
+  [
+    3.5,
+    22,
+    "Marie Keller",
+    "Fine Arts",
+    50,
+    3.4
+  ],
+  [
+    2.2,
+    22,
+    "George Kaminski",
+    "Chemistry",
+    31,
+    3.4
+  ],
+  [
+    3.3,
+    22,
+    "Amalene Cooper-Morgan",
+    "Chemistry",
+    60,
+    3.2
+  ],
+  [
+    1.8,
+    22,
+    "Ryszard Pryputniewicz",
+    "Engineering",
+    "N/A",
+    4.7
+  ],
+  [
+    3.2,
+    22,
+    "JJ Malone",
+    "Mathematics",
+    0,
+    2.7
+  ],
+  [
+    3.6,
+    21,
+    "James Doyle",
+    "Psychology",
+    50,
+    2.5
+  ],
+  [
+    3.2,
+    21,
+    "Jeanine Skorinko",
+    "Psychology",
+    47,
+    4.1
+  ],
+  [
+    4,
+    21,
+    "W. A. Addison",
+    "Humanities",
+    50,
+    2.6
+  ],
+  [
+    4.3,
+    21,
+    "Sarah Olson",
+    "Mathematics",
+    100,
+    2.2
+  ],
+  [
+    2.5,
+    21,
+    "Taylor Andrews",
+    "Computer Science",
+    37,
+    2.9
+  ],
+  [
+    3.8,
+    21,
+    "David Olinger",
+    "Engineering",
+    80,
+    3.1
+  ],
+  [
+    4.6,
+    21,
+    "John Blandino",
+    "Engineering",
+    100,
+    2.9
+  ],
+  [
+    1.6,
+    21,
+    "Robert Walls",
+    "Computer Science",
+    19,
+    4.4
+  ],
+  [
+    4.6,
+    21,
+    "Caroline Labenski",
+    "Mathematics",
+    100,
+    1.8
+  ],
+  [
+    1.9,
+    21,
+    "Balgobin Nandram",
+    "Mathematics",
+    67,
+    3.2
+  ],
+  [
+    3.9,
+    20,
+    "Bogdan Vernescu",
+    "Mathematics",
+    "N/A",
+    2.9
+  ],
+  [
+    2.7,
+    20,
+    "Domokos Vermes",
+    "Mathematics",
+    "N/A",
+    3.1
+  ],
+  [
+    4,
+    20,
+    "Helen Vassallo",
+    "Business",
+    100,
+    2.5
+  ],
+  [
+    4.4,
+    20,
+    "Deborah Gray",
+    "Humanities",
+    "N/A",
+    1.8
+  ],
+  [
+    4.2,
+    20,
+    "Mallikarjunaiah Muddamallappa",
+    "Mathematics",
+    95,
+    3.1
+  ],
+  [
+    2.2,
+    20,
+    "Paul Davis",
+    "Mathematics",
+    "N/A",
+    3.3
+  ],
+  [
+    1.6,
+    20,
+    "Wenjing Lou",
+    "Engineering",
+    "N/A",
+    2.9
+  ],
+  [
+    2.7,
+    20,
+    "Elizabeth Ryder",
+    "Science",
+    100,
+    3.4
+  ],
+  [
+    3.8,
+    20,
+    "Emmanuel Agu",
+    "Computer Science",
+    75,
+    2.9
+  ],
+  [
+    4.7,
+    20,
+    "Richard Vaz",
+    "Engineering",
+    50,
+    3.3
+  ],
+  [
+    2.3,
+    20,
+    "Robert Hersh",
+    "International Studies",
+    34,
+    4.3
+  ],
+  [
+    4,
+    19,
+    "Ken Stafford",
+    "Engineering",
+    67,
+    3.1
+  ],
+  [
+    3.7,
+    19,
+    "Guillermo Salazar",
+    "Engineering",
+    80,
+    3.2
+  ],
+  [
+    3.1,
+    19,
+    "Torbjorn Bergstrom",
+    "Engineering",
+    72,
+    2.1
+  ],
+  [
+    4.2,
+    19,
+    "Fiona Levey",
+    "Engineering",
+    78,
+    3.2
+  ],
+  [
+    3.7,
+    19,
+    "Selcuk Guceri",
+    "Engineering",
+    83,
+    2
+  ],
+  [
+    3.2,
+    19,
+    "Allen Hoffman",
+    "Engineering",
+    0,
+    2.6
+  ],
+  [
+    3.5,
+    19,
+    "Demetri Kantarelis",
+    "Economics",
+    25,
+    2.2
+  ],
+  [
+    2.1,
+    19,
+    "Mikhail Dimentberg",
+    "Engineering",
+    0,
+    3.1
+  ],
+  [
+    2.3,
+    19,
+    "Zheyang WU",
+    "Mathematics",
+    34,
+    2.5
+  ],
+  [
+    3.3,
+    19,
+    "Kaveh Pahlavan",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    3.5,
+    19,
+    "Richard Sisson",
+    "Engineering",
+    0,
+    2.3
+  ],
+  [
+    1.9,
+    18,
+    "Jianyu Liang",
+    "Engineering",
+    15,
+    2.9
+  ],
+  [
+    3.9,
+    18,
+    "Paul Kirby",
+    "Humanities",
+    100,
+    1.8
+  ],
+  [
+    3.6,
+    18,
+    "Barry Posterro",
+    "Mathematics",
+    37,
+    2.4
+  ],
+  [
+    2,
+    18,
+    "Jose Arguello",
+    "Science",
+    34,
+    3.8
+  ],
+  [
+    4.2,
+    18,
+    "David Spanagel",
+    "History",
+    100,
+    3.5
+  ],
+  [
+    4.9,
+    18,
+    "Elizabeth Bafaro",
+    "Chemistry",
+    100,
+    3.1
+  ],
+  [
+    4.6,
+    18,
+    "Aarti Madan",
+    "Humanities",
+    88,
+    2.9
+  ],
+  [
+    2.5,
+    18,
+    "Ruth Smith",
+    "Philosophy",
+    100,
+    3.6
+  ],
+  [
+    4.9,
+    18,
+    "Joseph Aguilar",
+    "English & Writing",
+    100,
+    1.7
+  ],
+  [
+    4.9,
+    17,
+    "Nathan Uricchio",
+    "Mathematics",
+    100,
+    2.8
+  ],
+  [
+    1.8,
+    17,
+    "Fabio Carrera",
+    "International Studies",
+    100,
+    3.9
+  ],
+  [
+    5,
+    17,
+    "Constance Clark",
+    "History",
+    100,
+    1.7
+  ],
+  [
+    2.2,
+    17,
+    "Karen Lemone",
+    "Computer Science",
+    0,
+    3.1
+  ],
+  [
+    4,
+    17,
+    "Stephan Sturm",
+    "Mathematics",
+    79,
+    4
+  ],
+  [
+    3.5,
+    17,
+    "Pradeep Radhakrishnan",
+    "Engineering",
+    56,
+    3.8
+  ],
+  [
+    4.9,
+    17,
+    "Kent Ljungquist",
+    "English",
+    "N/A",
+    2.4
+  ],
+  [
+    4,
+    17,
+    "Kristen Billiar",
+    "Engineering",
+    75,
+    3.2
+  ],
+  [
+    3.3,
+    17,
+    "Lauren Mathews",
+    "Biology",
+    50,
+    3.9
+  ],
+  [
+    1.9,
+    17,
+    "Christopher Scarpino",
+    "Engineering",
+    25,
+    2.6
+  ],
+  [
+    4.4,
+    17,
+    "Jeanine Plummer",
+    "Engineering",
+    50,
+    3.3
+  ],
+  [
+    4.5,
+    17,
+    "Francesca Bernardi",
+    "Mathematics",
+    89,
+    3.2
+  ],
+  [
+    4.5,
+    17,
+    "Joseph Stabile",
+    "Engineering",
+    100,
+    2.4
+  ],
+  [
+    4.5,
+    17,
+    "John Delorey",
+    "Music",
+    "N/A",
+    1.4
+  ],
+  [
+    3.8,
+    17,
+    "Mehul Bhatia",
+    "Engineering",
+    65,
+    3.2
+  ],
+  [
+    3,
+    17,
+    "Tahar El-Korchi",
+    "Engineering",
+    100,
+    3.1
+  ],
+  [
+    2.1,
+    17,
+    "Michael Demetriou",
+    "Engineering",
+    0,
+    3.6
+  ],
+  [
+    4.5,
+    17,
+    "Lance Schachterle",
+    "English",
+    89,
+    2.3
+  ],
+  [
+    4.3,
+    17,
+    "Demitrios Koutmos",
+    "Business",
+    84,
+    3.4
+  ],
+  [
+    4.1,
+    17,
+    "Wilson Wong",
+    "Computer Science",
+    87,
+    4.1
+  ],
+  [
+    1.9,
+    16,
+    "Jun Masamune",
+    "Mathematics",
+    "N/A",
+    4.4
+  ],
+  [
+    1.6,
+    16,
+    "Sara Saberi",
+    "Business",
+    18,
+    4
+  ],
+  [
+    4.3,
+    16,
+    "Alex Zozulya",
+    "Science",
+    100,
+    3.3
+  ],
+  [
+    2.7,
+    16,
+    "Dirk Albrecht",
+    "Biomedical Engineering",
+    43,
+    3.8
+  ],
+  [
+    3.7,
+    16,
+    "Balaji Panchapakesan",
+    "Engineering",
+    75,
+    3.2
+  ],
+  [
+    2.9,
+    16,
+    "John Hall",
+    "Engineering",
+    50,
+    3.6
+  ],
+  [
+    4.9,
+    16,
+    "David Ibbett",
+    "Humanities",
+    100,
+    2.5
+  ],
+  [
+    4.1,
+    16,
+    "Reinhold Ludwig",
+    "computer science and electrical engineering",
+    50,
+    3.4
+  ],
+  [
+    1.7,
+    16,
+    "Vladimir Dobrushkin",
+    "Computer Science",
+    "N/A",
+    3.4
+  ],
+  [
+    4.7,
+    16,
+    "Simone Cassani",
+    "Mathematics",
+    94,
+    2.8
+  ],
+  [
+    3.3,
+    16,
+    "David Dibiasio",
+    "Engineering",
+    100,
+    3.2
+  ],
+  [
+    2.9,
+    16,
+    "Lorraine Higgins",
+    "Humanities",
+    0,
+    3.7
+  ],
+  [
+    2.9,
+    16,
+    "David Brown",
+    "Computer Science",
+    "N/A",
+    3.7
+  ],
+  [
+    2.5,
+    16,
+    "Matthew Ward",
+    "Computer Science",
+    "N/A",
+    4.1
+  ],
+  [
+    3.2,
+    16,
+    "Alex Wyglinski",
+    "Engineering",
+    34,
+    3.6
+  ],
+  [
+    2.5,
+    16,
+    "Yitzhak Mendelson",
+    "Engineering",
+    34,
+    4.3
+  ],
+  [
+    4.7,
+    16,
+    "Kristin Wobbe",
+    "Science",
+    100,
+    3.1
+  ],
+  [
+    2.5,
+    16,
+    "Jane Bouchard",
+    "Mathematics",
+    15,
+    2.5
+  ],
+  [
+    2.3,
+    16,
+    "Creighton Peet",
+    "International Studies",
+    0,
+    4.5
+  ],
+  [
+    2.9,
+    16,
+    "Christopher Brown",
+    "Engineering",
+    50,
+    2.1
+  ],
+  [
+    3.2,
+    16,
+    "Svetlana Nikitana",
+    "Humanities",
+    58,
+    3
+  ],
+  [
+    1.4,
+    15,
+    "Susan Vernon-Gerstenfeld",
+    "International Studies",
+    "N/A",
+    4.9
+  ],
+  [
+    2.5,
+    15,
+    "Parker Everett",
+    "History",
+    34,
+    3.1
+  ],
+  [
+    4.5,
+    15,
+    "Duncan Wright",
+    "Mathematics",
+    100,
+    2.8
+  ],
+  [
+    4.9,
+    15,
+    "Xavier Olive",
+    "Mathematics",
+    100,
+    3.2
+  ],
+  [
+    4,
+    15,
+    "Wesley Mott",
+    "English",
+    "N/A",
+    2.4
+  ],
+  [
+    2.5,
+    15,
+    "Neil Heffernan",
+    "Computer Science",
+    0,
+    3.8
+  ],
+  [
+    1.6,
+    15,
+    "Shamsur Mazumder",
+    "Engineering",
+    15,
+    4.3
+  ],
+  [
+    2.1,
+    15,
+    "Samuel Politz",
+    "Science",
+    0,
+    3.1
+  ],
+  [
+    4.3,
+    15,
+    "John Sullivan",
+    "Engineering",
+    67,
+    3.3
+  ],
+  [
+    4.9,
+    15,
+    "Matthew Ahrens",
+    "Computer Science",
+    100,
+    2.3
+  ],
+  [
+    4.2,
+    15,
+    "Monica Hatch",
+    "Music",
+    75,
+    1.7
+  ],
+  [
+    3.2,
+    14,
+    "Michael Gennert",
+    "Computer Science",
+    0,
+    2.7
+  ],
+  [
+    1.3,
+    14,
+    "Leslie Dodson",
+    "Humanities",
+    8,
+    4.4
+  ],
+  [
+    3.7,
+    14,
+    "Peter Hansen",
+    "Humanities",
+    72,
+    2.1
+  ],
+  [
+    3.4,
+    14,
+    "Gbeton Somasse",
+    "Economics",
+    62,
+    3.5
+  ],
+  [
+    4.1,
+    14,
+    "Robert Norton",
+    "Engineering",
+    "N/A",
+    4.1
+  ],
+  [
+    3.4,
+    14,
+    "George Pins",
+    "Engineering",
+    50,
+    2.8
+  ],
+  [
+    5,
+    14,
+    "Thomas Noviello",
+    "Physics",
+    100,
+    2.1
+  ],
+  [
+    3,
+    14,
+    "Soussan Djamasbi",
+    "Management",
+    50,
+    2.3
+  ],
+  [
+    3.7,
+    14,
+    "Andrew Trapp",
+    "Business",
+    84,
+    3.4
+  ],
+  [
+    1.9,
+    14,
+    "Joseph Rencis",
+    "Engineering",
+    "N/A",
+    4.2
+  ],
+  [
+    3.5,
+    14,
+    "Chickery Kasouf",
+    "Business",
+    100,
+    3
+  ],
+  [
+    4.4,
+    14,
+    "Kevin Lewis",
+    "Writing",
+    93,
+    2.5
+  ],
+  [
+    3.4,
+    14,
+    "Qingshuo Song",
+    "Mathematics",
+    65,
+    3
+  ],
+  [
+    2.8,
+    14,
+    "Diana Lados",
+    "Engineering",
+    0,
+    3.1
+  ],
+  [
+    3.9,
+    14,
+    "Jamal Yagoobi",
+    "Engineering",
+    88,
+    4.1
+  ],
+  [
+    2.6,
+    14,
+    "Kent Rissmiller",
+    "Law",
+    "N/A",
+    2.6
+  ],
+  [
+    3.1,
+    14,
+    "Melissa-Sue John",
+    "Psychology",
+    0,
+    2.9
+  ],
+  [
+    2.9,
+    14,
+    "Jonathan Weinstock",
+    "Computer Science",
+    43,
+    3.2
+  ],
+  [
+    3.1,
+    14,
+    "Elke Rundensteiner",
+    "Computer Science",
+    20,
+    2.8
+  ],
+  [
+    3,
+    13,
+    "Zhongqiang Zhang",
+    "Mathematics",
+    31,
+    2.8
+  ],
+  [
+    2.6,
+    13,
+    "Robert Krueger",
+    "Education",
+    34,
+    3.9
+  ],
+  [
+    1.7,
+    13,
+    "Zainalabedin Navabi",
+    "Engineering",
+    23,
+    3.9
+  ],
+  [
+    3.2,
+    13,
+    "Homer Walker",
+    "Mathematics",
+    "N/A",
+    2.9
+  ],
+  [
+    4.5,
+    13,
+    "David Rawson",
+    "History",
+    "N/A",
+    2.3
+  ],
+  [
+    3.5,
+    13,
+    "Pamela Weathers",
+    "Science",
+    50,
+    3.9
+  ],
+  [
+    2.1,
+    13,
+    "Nicholas Bertozzi",
+    "Engineering",
+    24,
+    4.4
+  ],
+  [
+    2.9,
+    13,
+    "Kevin Clements",
+    "Engineering",
+    "N/A",
+    3.5
+  ],
+  [
+    4.2,
+    13,
+    "Richard Falco",
+    "Music",
+    "N/A",
+    3
+  ],
+  [
+    2.7,
+    13,
+    "Fred Looft",
+    "Engineering",
+    100,
+    3.9
+  ],
+  [
+    2.4,
+    13,
+    "Seth Tuler",
+    "Education",
+    50,
+    3.5
+  ],
+  [
+    4.2,
+    13,
+    "Amanda Reidinger",
+    "Biomedical Engineering",
+    100,
+    2.1
+  ],
+  [
+    5,
+    13,
+    "Lou Roberts",
+    "Biology",
+    100,
+    2.4
+  ],
+  [
+    2.8,
+    13,
+    "John Kleinsmith",
+    "Engineering",
+    "N/A",
+    3
+  ],
+  [
+    2.8,
+    13,
+    "Theodore Crusberg",
+    "Science",
+    "N/A",
+    2.2
+  ],
+  [
+    2.4,
+    13,
+    "Charles Innis",
+    "Engineering",
+    "N/A",
+    2.5
+  ],
+  [
+    4.8,
+    13,
+    "Steve Kmiotek",
+    "Chemical Engineering",
+    100,
+    2.3
+  ],
+  [
+    4.7,
+    13,
+    "John Galante",
+    "History",
+    100,
+    2.5
+  ],
+  [
+    4.3,
+    13,
+    "Rebecca Moody",
+    "Religion",
+    93,
+    3.1
+  ],
+  [
+    4.3,
+    13,
+    "Ralph Sutter",
+    "Design",
+    84,
+    3.1
+  ],
+  [
+    3.3,
+    13,
+    "David Finkel",
+    "Computer Science",
+    "N/A",
+    2.2
+  ],
+  [
+    4.2,
+    13,
+    "Scarlet Shell",
+    "Biology",
+    77,
+    3.8
+  ],
+  [
+    4,
+    12,
+    "Arthur Gerstenfeld",
+    "Business",
+    100,
+    1.5
+  ],
+  [
+    2.2,
+    12,
+    "Raymond Hagglund",
+    "Engineering",
+    100,
+    1.9
+  ],
+  [
+    4.9,
+    12,
+    "James Hopkins",
+    "Physics",
+    "N/A",
+    1.7
+  ],
+  [
+    3.2,
+    12,
+    "Murali Mani",
+    "Computer Science",
+    100,
+    3.3
+  ],
+  [
+    4.8,
+    12,
+    "Nikolas Kazantzis",
+    "Engineering",
+    67,
+    2.8
+  ],
+  [
+    2.8,
+    12,
+    "Amity Manning",
+    "Biology",
+    40,
+    3.8
+  ],
+  [
+    4.5,
+    12,
+    "James Watters",
+    "Humanities",
+    "N/A",
+    2.4
+  ],
+  [
+    3.9,
+    12,
+    "Jeffrey Kesselman",
+    "Computer Science",
+    84,
+    3.5
+  ],
+  [
+    4.5,
+    12,
+    "Mohamed Brahimi",
+    "Humanities",
+    100,
+    1.8
+  ],
+  [
+    4.1,
+    12,
+    "Xiaodan Zhou",
+    "Mathematics",
+    84,
+    2.9
+  ],
+  [
+    3.2,
+    12,
+    "Walter Zurawsky",
+    "Chemical Engineering",
+    50,
+    3.9
+  ],
+  [
+    3.1,
+    12,
+    "Douglas Selent",
+    "Computer Science",
+    59,
+    4.1
+  ],
+  [
+    3.7,
+    12,
+    "Diane Strong",
+    "Business",
+    34,
+    3
+  ],
+  [
+    3.1,
+    12,
+    "Jian Zou",
+    "Mathematics",
+    50,
+    2.8
+  ],
+  [
+    4.8,
+    11,
+    "Gregory Noetscher",
+    "Engineering",
+    91,
+    3.5
+  ],
+  [
+    4.4,
+    11,
+    "Ivan Mardilovich",
+    "Engineering",
+    82,
+    2.7
+  ],
+  [
+    1.6,
+    11,
+    "Hao Loi",
+    "Computer Science",
+    0,
+    3.2
+  ],
+  [
+    3.6,
+    11,
+    "Hyungbin Park",
+    "Mathematics",
+    100,
+    2.4
+  ],
+  [
+    4.3,
+    11,
+    "Jacob Whitehill",
+    "Computer Science",
+    82,
+    4
+  ],
+  [
+    4.5,
+    11,
+    "Fahad Khan",
+    "Engineering",
+    "N/A",
+    2
+  ],
+  [
+    3.6,
+    11,
+    "Binan Gu",
+    "Mathematics",
+    73,
+    3.6
+  ],
+  [
+    3.6,
+    11,
+    "Jacob Gagnon",
+    "Mathematics",
+    "N/A",
+    1.6
+  ],
+  [
+    4.8,
+    11,
+    "George Heaton",
+    "Law",
+    100,
+    2.4
+  ],
+  [
+    1.3,
+    11,
+    "Roy Kennedy",
+    "Chemistry",
+    0,
+    4.7
+  ],
+  [
+    2.7,
+    11,
+    "L. Ramdas Ram-Mohan",
+    "Science",
+    25,
+    3.6
+  ],
+  [
+    3.9,
+    11,
+    "Jim Cocola",
+    "Not Specified",
+    75,
+    3.2
+  ],
+  [
+    3.3,
+    11,
+    "Joe Zhu",
+    "Economics",
+    100,
+    2
+  ],
+  [
+    2.8,
+    11,
+    "Min Wu",
+    "Mathematics",
+    46,
+    3.5
+  ],
+  [
+    3.8,
+    11,
+    "Sakthikumar Ambady",
+    "Biomedical Engineering",
+    84,
+    3.3
+  ],
+  [
+    4.6,
+    11,
+    "Erkan Tuzel",
+    "Physics",
+    100,
+    3.3
+  ],
+  [
+    4.5,
+    11,
+    "Michael Elmes",
+    "Business",
+    100,
+    2.5
+  ],
+  [
+    5,
+    11,
+    "Raul Picon",
+    "Chemistry",
+    100,
+    1.7
+  ],
+  [
+    5,
+    11,
+    "David Medich",
+    "Physics",
+    100,
+    2.9
+  ],
+  [
+    5,
+    11,
+    "Geoffrey Pfeifer",
+    "Humanities",
+    100,
+    2.2
+  ],
+  [
+    3.1,
+    10,
+    "Reeta Prusty",
+    "Biology",
+    "N/A",
+    2.9
+  ],
+  [
+    4.6,
+    10,
+    "John Bergendahl",
+    "Engineering",
+    "N/A",
+    2.7
+  ],
+  [
+    5,
+    10,
+    "Grant Burrier",
+    "Political Science",
+    100,
+    2.8
+  ],
+  [
+    2.8,
+    10,
+    "Sal Triolo",
+    "Chemistry",
+    "N/A",
+    2.4
+  ],
+  [
+    3.1,
+    10,
+    "Ed Gutierrez",
+    "Graphic Arts",
+    50,
+    3.2
+  ],
+  [
+    4.8,
+    10,
+    "Daniel DiMassa",
+    "Humanities",
+    100,
+    2.4
+  ],
+  [
+    4.5,
+    10,
+    "Craig Shue",
+    "Computer Science",
+    100,
+    3.3
+  ],
+  [
+    3.8,
+    10,
+    "Yu-Shan Sun",
+    "Computer Science",
+    90,
+    2.9
+  ],
+  [
+    3.5,
+    10,
+    "Robert Daniello",
+    "Engineering",
+    88,
+    3.1
+  ],
+  [
+    4.5,
+    10,
+    "Diran Apelian",
+    "Engineering",
+    "N/A",
+    3.2
+  ],
+  [
+    4.2,
+    10,
+    "James Dempsey",
+    "English",
+    "N/A",
+    2.9
+  ],
+  [
+    4.8,
+    10,
+    "Brian Moriarty",
+    "Computer Science",
+    "N/A",
+    2.8
+  ],
+  [
+    4.4,
+    10,
+    "Fernando Lopez Garcia",
+    "Mathematics",
+    "N/A",
+    1.7
+  ],
+  [
+    2.4,
+    10,
+    "Krishna Venkatasubramanian",
+    "Computer Science",
+    20,
+    4.4
+  ],
+  [
+    4,
+    10,
+    "Huili Zheng",
+    "Languages",
+    80,
+    2.9
+  ],
+  [
+    3.7,
+    10,
+    "Jennifer Mortensen",
+    "Computer Science",
+    64,
+    3
+  ],
+  [
+    2.4,
+    10,
+    "Mingjiang Tao",
+    "Geology",
+    37,
+    4
+  ],
+  [
+    4.5,
+    10,
+    "Raghvendra Cowlagi",
+    "Engineering",
+    84,
+    4
+  ],
+  [
+    3.2,
+    10,
+    "Fatemeh Emdad",
+    "Computer Science",
+    56,
+    2.6
+  ],
+  [
+    3,
+    10,
+    "Wael Al-Kouz",
+    "Engineering",
+    "N/A",
+    3.4
+  ],
+  [
+    5,
+    10,
+    "David Dollenmayer",
+    "Humanities",
+    "N/A",
+    1.9
+  ],
+  [
+    2.1,
+    10,
+    "Rodica Neamtu",
+    "Computer Science",
+    19,
+    3.6
+  ],
+  [
+    1.4,
+    10,
+    "Melissa Belz",
+    "International Studies",
+    10,
+    4.1
+  ],
+  [
+    2.6,
+    10,
+    "Sarah Riddick",
+    "English & Writing",
+    28,
+    3.7
+  ],
+  [
+    4.4,
+    10,
+    "Ryan Madan",
+    "Writing",
+    100,
+    2.7
+  ],
+  [
+    4.4,
+    9,
+    "Mikhail Mikhailov",
+    "Computer Science",
+    "N/A",
+    2.3
+  ],
+  [
+    4.3,
+    9,
+    "Kelum Gajamannage",
+    "Mathematics",
+    89,
+    2.4
+  ],
+  [
+    4.2,
+    9,
+    "Craig Putnam",
+    "Engineering",
+    100,
+    2.5
+  ],
+  [
+    4.4,
+    9,
+    "Donald Brown",
+    "Engineering",
+    "N/A",
+    3.7
+  ],
+  [
+    3.2,
+    9,
+    "Farnoush Reshadi",
+    "Business",
+    56,
+    3.7
+  ],
+  [
+    4.3,
+    9,
+    "R. James Duckworth",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    3.4,
+    9,
+    "Anthony Dixon",
+    "Engineering",
+    100,
+    3.3
+  ],
+  [
+    4.4,
+    9,
+    "Arne Gericke",
+    "Chemistry & Biochemistry",
+    100,
+    3.1
+  ],
+  [
+    2.7,
+    9,
+    "Seyed Zekavat",
+    "Physics",
+    67,
+    2.4
+  ],
+  [
+    4.7,
+    9,
+    "Yihao Zheng",
+    "Engineering",
+    89,
+    3.2
+  ],
+  [
+    1.8,
+    9,
+    "Shibin Dai",
+    "Mathematics",
+    "N/A",
+    2.9
+  ],
+  [
+    2.5,
+    9,
+    "Louis Colonna-Romano",
+    "Science",
+    0,
+    3
+  ],
+  [
+    3,
+    9,
+    "Douglas Petkie",
+    "Physics",
+    45,
+    3.6
+  ],
+  [
+    4.7,
+    9,
+    "Gregory Lewin",
+    "Engineering",
+    100,
+    3.8
+  ],
+  [
+    3.6,
+    9,
+    "Maqsood Mughal",
+    "Engineering",
+    78,
+    3.2
+  ],
+  [
+    4.7,
+    9,
+    "Ben Pollard",
+    "Physics",
+    100,
+    2.2
+  ],
+  [
+    4.4,
+    8,
+    "John Zeugner",
+    "Humanities",
+    "N/A",
+    2.9
+  ],
+  [
+    1.5,
+    8,
+    "Maria Hempel",
+    "Mathematics",
+    0,
+    4.9
+  ],
+  [
+    2.9,
+    8,
+    "Yan Wang",
+    "Engineering",
+    0,
+    1.9
+  ],
+  [
+    4.3,
+    8,
+    "Mohamed Eltabakh",
+    "Computer Science",
+    100,
+    2.6
+  ],
+  [
+    3,
+    8,
+    "Adryen Gonzalez",
+    "Fine Arts",
+    50,
+    3.3
+  ],
+  [
+    3.6,
+    8,
+    "Despoina Giapoudzi",
+    "Theater",
+    75,
+    1.6
+  ],
+  [
+    3.1,
+    8,
+    "Adam Powell",
+    "Engineering",
+    50,
+    3.4
+  ],
+  [
+    3.3,
+    8,
+    "Jamshed Mistry",
+    "Accounting",
+    100,
+    3.1
+  ],
+  [
+    4,
+    8,
+    "Gu Wang",
+    "Mathematics",
+    72,
+    3.6
+  ],
+  [
+    2,
+    8,
+    "Saad Mouti",
+    "Mathematics",
+    25,
+    4.6
+  ],
+  [
+    3.7,
+    8,
+    "Hasanjan Sayit",
+    "Mathematics",
+    "N/A",
+    1.8
+  ],
+  [
+    2.3,
+    8,
+    "John Gau",
+    "Physics",
+    "N/A",
+    2.9
+  ],
+  [
+    2.5,
+    8,
+    "Susan Zhou",
+    "Engineering",
+    100,
+    3.1
+  ],
+  [
+    3.8,
+    8,
+    "William Clark",
+    "Chemical Engineering",
+    100,
+    3.4
+  ],
+  [
+    1.5,
+    8,
+    "Bengisu Tulu",
+    "Management",
+    0,
+    2.4
+  ],
+  [
+    3.5,
+    8,
+    "Angela Incollingo Rodriguez",
+    "Psychology",
+    50,
+    3.6
+  ],
+  [
+    3,
+    8,
+    "Reinier Broker",
+    "Mathematics",
+    "N/A",
+    3.4
+  ],
+  [
+    4.9,
+    8,
+    "Constance Clark",
+    "Humanities",
+    100,
+    1.6
+  ],
+  [
+    4.5,
+    8,
+    "Frances Medina",
+    "Mathematics",
+    100,
+    3.1
+  ],
+  [
+    2.9,
+    8,
+    "Umberto Mosco",
+    "Mathematics",
+    50,
+    2.5
+  ],
+  [
+    3.9,
+    8,
+    "Gregory Fischer",
+    "Engineering",
+    50,
+    3.5
+  ],
+  [
+    4.4,
+    8,
+    "Lyubov Titova",
+    "Physics",
+    88,
+    2.9
+  ],
+  [
+    4.9,
+    8,
+    "Walter Towner",
+    "Business",
+    100,
+    1.6
+  ],
+  [
+    4.9,
+    8,
+    "Yanhua Li",
+    "Computer Science",
+    100,
+    3.3
+  ],
+  [
+    3.1,
+    8,
+    "Thomas Balistrieri",
+    "Social Science",
+    50,
+    3.5
+  ],
+  [
+    4,
+    8,
+    "Carly Thorp",
+    "Mathematics",
+    75,
+    2.3
+  ],
+  [
+    3.4,
+    8,
+    "Roberto Pietroforte",
+    "Engineering",
+    "N/A",
+    3.5
+  ],
+  [
+    4.3,
+    8,
+    "Esther Boucher",
+    "Writing",
+    100,
+    1.9
+  ],
+  [
+    2.9,
+    8,
+    "Xiangnan Kong",
+    "Computer Science",
+    50,
+    1.5
+  ],
+  [
+    4.9,
+    8,
+    "Joshua Rohde",
+    "Music",
+    100,
+    2
+  ],
+  [
+    3.1,
+    8,
+    "Carissa Olsen",
+    "Chemistry",
+    63,
+    3.6
+  ],
+  [
+    2.9,
+    8,
+    "Keith Pray",
+    "Computer Science",
+    25,
+    2.9
+  ],
+  [
+    3.5,
+    8,
+    "Mohammad Agheli",
+    "Engineering",
+    60,
+    3.5
+  ],
+  [
+    1.9,
+    7,
+    "Robert Thompson",
+    "Engineering",
+    "N/A",
+    4
+  ],
+  [
+    3.3,
+    7,
+    "Martha Cyr",
+    "Engineering",
+    100,
+    3.6
+  ],
+  [
+    5,
+    7,
+    "James McKenna",
+    "Business",
+    100,
+    1.7
+  ],
+  [
+    4,
+    7,
+    "Lindsay Davis",
+    "History",
+    86,
+    2.9
+  ],
+  [
+    3.7,
+    7,
+    "Ali Yousefi",
+    "Computer Science",
+    72,
+    4.4
+  ],
+  [
+    1,
+    7,
+    "Mia Bosinger",
+    "Biology",
+    0,
+    3.7
+  ],
+  [
+    4.9,
+    7,
+    "Mehdi Mortazavi",
+    "Engineering",
+    100,
+    2.9
+  ],
+  [
+    3.4,
+    7,
+    "Scott Barton",
+    "Music",
+    67,
+    3.9
+  ],
+  [
+    4.5,
+    7,
+    "Aaron Deskins",
+    "Chemical Engineering",
+    100,
+    2.7
+  ],
+  [
+    2.4,
+    7,
+    "Dilli Bhatta",
+    "Mathematics",
+    "N/A",
+    2.4
+  ],
+  [
+    4.2,
+    7,
+    "Jeffrey Forgeng",
+    "Humanities",
+    "N/A",
+    2.1
+  ],
+  [
+    4.9,
+    7,
+    "Samuel Tripp",
+    "Mathematics",
+    100,
+    3.1
+  ],
+  [
+    3.7,
+    7,
+    "Thomas Gannon",
+    "Engineering",
+    50,
+    3.6
+  ],
+  [
+    4.1,
+    7,
+    "Chaozhen Wei",
+    "Mathematics",
+    86,
+    2.4
+  ],
+  [
+    5,
+    7,
+    "Tyler Wong",
+    "Engineering",
+    100,
+    2.9
+  ],
+  [
+    3.1,
+    7,
+    "Rosanna Garcia",
+    "Business",
+    58,
+    3.4
+  ],
+  [
+    4.1,
+    7,
+    "Raj Basu",
+    "Physics",
+    "N/A",
+    1.6
+  ],
+  [
+    1.1,
+    7,
+    "Irvin Morgan",
+    "Finance",
+    "N/A",
+    4
+  ],
+  [
+    3.8,
+    7,
+    "Dmitry Berenson",
+    "Computer Science",
+    "N/A",
+    3.6
+  ],
+  [
+    1.8,
+    7,
+    "Ravindra Datta",
+    "Engineering",
+    0,
+    3.6
+  ],
+  [
+    3.6,
+    7,
+    "Xinming Huang",
+    "Engineering",
+    50,
+    2.2
+  ],
+  [
+    2.7,
+    7,
+    "Jennifer deWinter",
+    "Humanities",
+    25,
+    3.7
+  ],
+  [
+    3,
+    7,
+    "Adrien Stoloff",
+    "History",
+    58,
+    3.4
+  ],
+  [
+    4.7,
+    7,
+    "Tharindu De Alwis",
+    "Mathematics",
+    100,
+    2.1
+  ],
+  [
+    4.3,
+    7,
+    "Paul Cotnoir",
+    "Engineering",
+    50,
+    2
+  ],
+  [
+    1.7,
+    7,
+    "Erica Stults",
+    "Engineering",
+    0,
+    3.6
+  ],
+  [
+    2.8,
+    7,
+    "Joseph Bagshaw",
+    "Science",
+    "N/A",
+    2.3
+  ],
+  [
+    2.5,
+    7,
+    "Frederick Hart",
+    "Engineering",
+    "N/A",
+    2
+  ],
+  [
+    3.9,
+    7,
+    "Leffi Cewe-Malloy",
+    "Engineering",
+    "N/A",
+    1.9
+  ],
+  [
+    2.3,
+    7,
+    "Karen Lagasse",
+    "Chemistry",
+    29,
+    4.6
+  ],
+  [
+    4,
+    7,
+    "Renata Konrad",
+    "Business",
+    100,
+    4
+  ],
+  [
+    3.5,
+    7,
+    "Luis Vidali",
+    "Biology",
+    67,
+    3
+  ],
+  [
+    3.6,
+    7,
+    "Tanja Dominko",
+    "Biology",
+    40,
+    2.3
+  ],
+  [
+    5,
+    7,
+    "Keenan Kidwell",
+    "Mathematics",
+    100,
+    2.1
+  ],
+  [
+    3.9,
+    7,
+    "Charles Rich",
+    "Computer Science",
+    "N/A",
+    3.1
+  ],
+  [
+    2,
+    7,
+    "Suzanne Mello-Stark",
+    "Computer Science",
+    15,
+    2.9
+  ],
+  [
+    3,
+    7,
+    "Sungsu Kim",
+    "Mathematics",
+    "N/A",
+    2.6
+  ],
+  [
+    3.5,
+    7,
+    "Bethel Eddy",
+    "Humanities",
+    100,
+    2.9
+  ],
+  [
+    4.6,
+    7,
+    "Hussein Nasralah",
+    "Mathematics",
+    86,
+    2.6
+  ],
+  [
+    3.4,
+    7,
+    "Milosh Puchovsky",
+    "Engineering",
+    67,
+    4.6
+  ],
+  [
+    3.4,
+    7,
+    "Xuwei Yang",
+    "Mathematics",
+    100,
+    2.3
+  ],
+  [
+    3.9,
+    6,
+    "Peder Pedersen",
+    "Engineering",
+    "N/A",
+    2.8
+  ],
+  [
+    2.5,
+    6,
+    "Tom Robertson",
+    "History",
+    "N/A",
+    3
+  ],
+  [
+    3.4,
+    6,
+    "Raymond Page",
+    "Biomedical Engineering",
+    67,
+    3.8
+  ],
+  [
+    4.3,
+    6,
+    "Gillian Smith",
+    "Computer Science",
+    84,
+    1.7
+  ],
+  [
+    2.2,
+    6,
+    "Fangfang Wang",
+    "Mathematics",
+    34,
+    3.7
+  ],
+  [
+    3.4,
+    6,
+    "Silvia Jimenez",
+    "Mathematics",
+    "N/A",
+    2.8
+  ],
+  [
+    2,
+    6,
+    "James Matthews",
+    "Engineering",
+    "N/A",
+    3.8
+  ],
+  [
+    4.8,
+    6,
+    "Taskin Padir",
+    "Engineering",
+    "N/A",
+    3
+  ],
+  [
+    3.2,
+    6,
+    "Bland Addison",
+    "Humanities",
+    25,
+    3
+  ],
+  [
+    4.7,
+    6,
+    "Patricia Stapleton",
+    "Social Science",
+    100,
+    1.5
+  ],
+  [
+    4.8,
+    6,
+    "Lucia Carichino",
+    "Mathematics",
+    100,
+    3
+  ],
+  [
+    1.8,
+    6,
+    "Courtney Kurlanska",
+    "Global International Studies",
+    17,
+    4.2
+  ],
+  [
+    4.8,
+    6,
+    "John Obayemi",
+    "Engineering",
+    100,
+    3.5
+  ],
+  [
+    3,
+    6,
+    "Songbai Ji",
+    "Computer Science",
+    50,
+    4
+  ],
+  [
+    4.8,
+    6,
+    "Keith Zizza",
+    "Music",
+    100,
+    2
+  ],
+  [
+    4.3,
+    6,
+    "Germano Iannacchione",
+    "Physics",
+    100,
+    3
+  ],
+  [
+    4,
+    6,
+    "Kathy Ann Notarianni",
+    "Engineering",
+    100,
+    3.2
+  ],
+  [
+    4.2,
+    6,
+    "Jessica Sands",
+    "Humanities",
+    "N/A",
+    2.3
+  ],
+  [
+    1.7,
+    6,
+    "Francis Hoy",
+    "Business",
+    100,
+    4.2
+  ],
+  [
+    1.2,
+    6,
+    "Yu Zhong",
+    "Engineering",
+    0,
+    3.7
+  ],
+  [
+    4.7,
+    6,
+    "Nadeesha Jayaweera",
+    "Mathematics",
+    100,
+    1.2
+  ],
+  [
+    3.6,
+    6,
+    "Jamie Monat",
+    "Management",
+    67,
+    3.7
+  ],
+  [
+    4.2,
+    6,
+    "Aaron Sakulich",
+    "Engineering",
+    84,
+    3.3
+  ],
+  [
+    2.8,
+    6,
+    "Nikhil Karanjgaokar",
+    "Engineering",
+    50,
+    4.7
+  ],
+  [
+    3.3,
+    6,
+    "Jennifer Rudolph",
+    "Humanities",
+    67,
+    4
+  ],
+  [
+    2.2,
+    6,
+    "Joshua Guttman",
+    "Computer Science",
+    "N/A",
+    3
+  ],
+  [
+    3.8,
+    6,
+    "Mihnea Andrei",
+    "Mathematics",
+    84,
+    2.3
+  ],
+  [
+    2.5,
+    6,
+    "Chun-Kit Ben Ngan",
+    "Computer Science",
+    34,
+    3.7
+  ],
+  [
+    4.7,
+    6,
+    "Alexander Herbert",
+    "Humanities",
+    100,
+    3.3
+  ],
+  [
+    4.7,
+    6,
+    "Brenton Faber",
+    "Writing",
+    100,
+    1.7
+  ],
+  [
+    1.7,
+    6,
+    "Romain Murenzi",
+    "Physics",
+    17,
+    3.5
+  ],
+  [
+    2.6,
+    6,
+    "Yong-Mo Moon",
+    "Engineering",
+    "N/A",
+    3.2
+  ],
+  [
+    2,
+    6,
+    "Paramasivam Jayachandran",
+    "Engineering",
+    "N/A",
+    2.7
+  ],
+  [
+    2.8,
+    6,
+    "Karla Mendoza-Abarca",
+    "Business",
+    25,
+    3.2
+  ],
+  [
+    4.7,
+    6,
+    "Jennifer Wilcox",
+    "Engineering",
+    100,
+    1.8
+  ],
+  [
+    4.7,
+    6,
+    "Lane Harrison",
+    "Computer Science",
+    84,
+    3.3
+  ],
+  [
+    5,
+    6,
+    "Holger Droessler",
+    "History",
+    100,
+    2
+  ],
+  [
+    4.9,
+    6,
+    "Dominic Golding",
+    "Interdisciplinary Studies",
+    100,
+    4.3
+  ],
+  [
+    4.6,
+    6,
+    "Fabienne Miller",
+    "Accounting",
+    100,
+    3.3
+  ],
+  [
+    4.7,
+    6,
+    "Natalie Farny",
+    "Biology",
+    100,
+    3
+  ],
+  [
+    4.8,
+    5,
+    "JoAnn Whitefleet-Smith",
+    "Science",
+    "N/A",
+    2
+  ],
+  [
+    4.3,
+    5,
+    "Mahadevan Padmanabhan",
+    "Engineering",
+    "N/A",
+    2.8
+  ],
+  [
+    2.5,
+    5,
+    "Janice Gobert",
+    "Social Science",
+    "N/A",
+    3.2
+  ],
+  [
+    3.9,
+    5,
+    "Marsha Rolle",
+    "Engineering",
+    100,
+    3.2
+  ],
+  [
+    2.4,
+    5,
+    "Kwonmoo Lee",
+    "Biomedical Engineering",
+    40,
+    3.4
+  ],
+  [
+    3.8,
+    5,
+    "Gene Bogdanov",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    2,
+    5,
+    "Elizabeth Stewart",
+    "Chemical Engineering",
+    20,
+    4.8
+  ],
+  [
+    1,
+    5,
+    "Nobuhiko Hata",
+    "Engineering",
+    0,
+    4
+  ],
+  [
+    2.9,
+    5,
+    "Yiming Rong",
+    "Engineering",
+    "N/A",
+    1.4
+  ],
+  [
+    1.1,
+    5,
+    "Eugene Eberbach",
+    "Computer Science",
+    0,
+    3.8
+  ],
+  [
+    2.2,
+    5,
+    "Sneha Narra",
+    "Engineering",
+    20,
+    3.4
+  ],
+  [
+    3.8,
+    5,
+    "Pratap Rao",
+    "Education",
+    60,
+    2.6
+  ],
+  [
+    4.8,
+    5,
+    "Marja Bakermans",
+    "Biology",
+    100,
+    2.6
+  ],
+  [
+    4.4,
+    5,
+    "Edward Gonsalves",
+    "Business",
+    67,
+    2.2
+  ],
+  [
+    4.4,
+    5,
+    "William San Martin",
+    "History",
+    100,
+    3.4
+  ],
+  [
+    5,
+    5,
+    "Kara Fontenot",
+    "English & Writing",
+    100,
+    2
+  ],
+  [
+    5,
+    5,
+    "Randy Paffenroth",
+    "Mathematics",
+    100,
+    2.8
+  ],
+  [
+    5,
+    5,
+    "Danielle Cote",
+    "Engineering",
+    100,
+    2.4
+  ],
+  [
+    1.8,
+    5,
+    "Jeanne Essame",
+    "Humanities",
+    0,
+    3.8
+  ],
+  [
+    3.8,
+    5,
+    "Linlin SU",
+    "Mathematics",
+    "N/A",
+    2
+  ],
+  [
+    2.1,
+    5,
+    "Jen Dewinter",
+    "Writing",
+    "N/A",
+    4
+  ],
+  [
+    2.8,
+    5,
+    "Cagdas Onal",
+    "Engineering",
+    67,
+    2.8
+  ],
+  [
+    4.2,
+    5,
+    "Derren Rosbach",
+    "Social Science",
+    75,
+    2.4
+  ],
+  [
+    4.6,
+    5,
+    "Jagan Srinivasan",
+    "Biology",
+    100,
+    2.4
+  ],
+  [
+    4,
+    5,
+    "Erwin Danneels",
+    "Business",
+    "N/A",
+    3
+  ],
+  [
+    2.6,
+    5,
+    "Frank Defalco",
+    "Engineering",
+    "N/A",
+    3.2
+  ],
+  [
+    3.1,
+    5,
+    "Joseph Farbrook",
+    "Humanities",
+    "N/A",
+    2.8
+  ],
+  [
+    3.2,
+    5,
+    "Ethan Murphy",
+    "Mathematics",
+    "N/A",
+    3.2
+  ],
+  [
+    3.6,
+    5,
+    "Kelsey McGlashan",
+    "Hospitality",
+    "N/A",
+    1.4
+  ],
+  [
+    4.4,
+    5,
+    "Kymberlee O'Brien",
+    "Psychology",
+    75,
+    2.6
+  ],
+  [
+    5,
+    5,
+    "Glenn Gaudette",
+    "Engineering",
+    100,
+    2.2
+  ],
+  [
+    4.8,
+    5,
+    "Jennifer McWeeny",
+    "Philosophy",
+    100,
+    3
+  ],
+  [
+    4.4,
+    5,
+    "Jessica Rosewitz",
+    "Engineering",
+    80,
+    3.4
+  ],
+  [
+    3.2,
+    5,
+    "Ernesto Caceres",
+    "Mathematics",
+    60,
+    3.8
+  ],
+  [
+    5,
+    5,
+    "Christina Bailey-Hytholt",
+    "Chemical Engineering",
+    100,
+    2.8
+  ],
+  [
+    3,
+    5,
+    "R. Racine",
+    "Philosophy",
+    60,
+    3.2
+  ],
+  [
+    1.8,
+    5,
+    "Nicole Buczkowski",
+    "Mathematics",
+    34,
+    2.8
+  ],
+  [
+    5,
+    4,
+    "Sonia Chernova",
+    "Computer Science",
+    "N/A",
+    2.3
+  ],
+  [
+    1,
+    4,
+    "Edvina Uzunovic",
+    "Engineering",
+    0,
+    3.5
+  ],
+  [
+    2.8,
+    4,
+    "John Lindholm",
+    "Business",
+    75,
+    2.3
+  ],
+  [
+    2.8,
+    4,
+    "Koksal Mus",
+    "Computer Science amp Engineering",
+    50,
+    3
+  ],
+  [
+    2,
+    4,
+    "Kunta Wu",
+    "Physics",
+    0,
+    3.3
+  ],
+  [
+    2.5,
+    4,
+    "David Mavor",
+    "Chemistry",
+    25,
+    3.5
+  ],
+  [
+    5,
+    4,
+    "Robert Traver",
+    "Social Science",
+    100,
+    2.3
+  ],
+  [
+    3.6,
+    4,
+    "Brent French",
+    "Business",
+    100,
+    2.8
+  ],
+  [
+    2.3,
+    4,
+    "Mohamad Sulman",
+    "Mathematics",
+    "N/A",
+    3.3
+  ],
+  [
+    5,
+    4,
+    "Taimoor Afzal",
+    "Engineering",
+    100,
+    2
+  ],
+  [
+    2.6,
+    4,
+    "Robert Dempski",
+    "Chemistry",
+    50,
+    2.8
+  ],
+  [
+    1.9,
+    4,
+    "Anthony Linn",
+    "Engineering",
+    34,
+    3.5
+  ],
+  [
+    1.6,
+    4,
+    "Nabin Shrestha",
+    "Mathematics",
+    "N/A",
+    2
+  ],
+  [
+    4.4,
+    4,
+    "Weiwei Xie",
+    "Mathematics",
+    "N/A",
+    3
+  ],
+  [
+    3.6,
+    4,
+    "Dhiman Bhadra",
+    "Mathematics",
+    "N/A",
+    2
+  ],
+  [
+    5,
+    4,
+    "Andrew Klein",
+    "computer science and electrical engineering",
+    "N/A",
+    2
+  ],
+  [
+    2.5,
+    4,
+    "James O'Rourke",
+    "Engineering",
+    0,
+    1.8
+  ],
+  [
+    3.5,
+    4,
+    "Farley Chery",
+    "Computer Science",
+    75,
+    4
+  ],
+  [
+    5,
+    4,
+    "Shana Lessing",
+    "Humanities",
+    100,
+    2.3
+  ],
+  [
+    3.3,
+    4,
+    "Nima Rahbar",
+    "Engineering",
+    50,
+    3.5
+  ],
+  [
+    3.8,
+    4,
+    "Nelson Mesa",
+    "Languages",
+    75,
+    3.3
+  ],
+  [
+    4.3,
+    4,
+    "Alexander Smith",
+    "Economics",
+    100,
+    2.3
+  ],
+  [
+    3.8,
+    4,
+    "Anjana Jain",
+    "Biomedical Engineering",
+    "N/A",
+    1.8
+  ],
+  [
+    4.1,
+    4,
+    "Yeesock Kim",
+    "Engineering",
+    "N/A",
+    2.3
+  ],
+  [
+    1.9,
+    4,
+    "Paul Moon",
+    "Engineering",
+    0,
+    1.8
+  ],
+  [
+    4,
+    4,
+    "Maria Warren",
+    "Languages",
+    100,
+    2.2
+  ],
+  [
+    1.5,
+    4,
+    "Jun Yang",
+    "Engineering",
+    0,
+    2.8
+  ],
+  [
+    5,
+    4,
+    "Carrick Eggleston",
+    "Geology",
+    100,
+    2.5
+  ],
+  [
+    4.5,
+    4,
+    "Yunus Telliel",
+    "Philosophy",
+    100,
+    3
+  ],
+  [
+    2.8,
+    4,
+    "Karen Oates",
+    "Biology",
+    25,
+    3.3
+  ],
+  [
+    3.9,
+    4,
+    "Yuxiang Liu",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    1.8,
+    4,
+    "Tina Ranalli",
+    "History",
+    "N/A",
+    4.8
+  ],
+  [
+    4,
+    4,
+    "J. Scott Jiusto",
+    "Education",
+    100,
+    1.5
+  ],
+  [
+    5,
+    4,
+    "Pinar Okumus",
+    "Engineering",
+    100,
+    2.3
+  ],
+  [
+    1.3,
+    4,
+    "William Horton",
+    "Chemistry",
+    0,
+    4
+  ],
+  [
+    4,
+    4,
+    "Adebayo Badmos",
+    "Engineering",
+    75,
+    2.8
+  ],
+  [
+    4.3,
+    4,
+    "Ulrike Brisson",
+    "Humanities",
+    75,
+    2.7
+  ],
+  [
+    3.5,
+    4,
+    "Zachary Taillefer",
+    "Engineering",
+    75,
+    3.8
+  ],
+  [
+    4,
+    4,
+    "Gonzalo Contador",
+    "Mathematics",
+    75,
+    3.3
+  ],
+  [
+    1.8,
+    4,
+    "Micah Chase",
+    "Business",
+    40,
+    4
+  ],
+  [
+    1.8,
+    4,
+    "Andre Nachbin",
+    "Mathematics",
+    25,
+    3.3
+  ],
+  [
+    4,
+    4,
+    "Suzanne Lepage",
+    "Engineering",
+    50,
+    3.8
+  ],
+  [
+    3.3,
+    3,
+    "Robert Connors",
+    "Chemistry",
+    "N/A",
+    2.3
+  ],
+  [
+    4,
+    3,
+    "Robert Lindeman",
+    "Computer Science",
+    "N/A",
+    3.3
+  ],
+  [
+    2,
+    3,
+    "Stephan Koehler",
+    "Physics",
+    "N/A",
+    3.7
+  ],
+  [
+    4.2,
+    3,
+    "James Van De Ven",
+    "Engineering",
+    "N/A",
+    2.7
+  ],
+  [
+    3.3,
+    3,
+    "Craig Danielson",
+    "Religion",
+    34,
+    2.7
+  ],
+  [
+    4.5,
+    3,
+    "Luca Capogna",
+    "Mathematics",
+    100,
+    2.7
+  ],
+  [
+    3.9,
+    3,
+    "Laureen Elgert",
+    "Social Science",
+    50,
+    3.7
+  ],
+  [
+    4.7,
+    3,
+    "Robert Lombardi",
+    "Business",
+    100,
+    3
+  ],
+  [
+    5,
+    3,
+    "Wenhua Du",
+    "Languages",
+    100,
+    4
+  ],
+  [
+    5,
+    3,
+    "Berk Calli",
+    "Computer Science",
+    100,
+    3.3
+  ],
+  [
+    2,
+    3,
+    "Andre Rosendo",
+    "Engineering",
+    50,
+    4.7
+  ],
+  [
+    4.7,
+    3,
+    "Kate McIntyre",
+    "Humanities",
+    100,
+    2.7
+  ],
+  [
+    2,
+    3,
+    "Kaitlyn Schneider",
+    "Psychology",
+    34,
+    4.3
+  ],
+  [
+    4.7,
+    3,
+    "V.J. Manzo",
+    "Music",
+    100,
+    1
+  ],
+  [
+    2.3,
+    3,
+    "Domhnull Granquist-Fraser",
+    "Engineering",
+    "N/A",
+    3
+  ],
+  [
+    5,
+    3,
+    "Amy Zeng",
+    "Management",
+    "N/A",
+    2.3
+  ],
+  [
+    4.3,
+    3,
+    "Xin Xin",
+    "Languages",
+    50,
+    3.3
+  ],
+  [
+    4,
+    3,
+    "Jahangir Rahman",
+    "Engineering",
+    67,
+    3.7
+  ],
+  [
+    5,
+    3,
+    "Shanshan Rodriguez",
+    "Physics",
+    100,
+    2
+  ],
+  [
+    5,
+    3,
+    "Britton Snyder",
+    "Fine Arts",
+    "N/A",
+    3.3
+  ],
+  [
+    3.3,
+    3,
+    "Erika Stone",
+    "Theater",
+    "N/A",
+    3
+  ],
+  [
+    4.7,
+    3,
+    "Tan Zhang",
+    "Engineering",
+    100,
+    3.3
+  ],
+  [
+    2.3,
+    3,
+    "Jennifer Stander",
+    "Science",
+    34,
+    4
+  ],
+  [
+    1.7,
+    3,
+    "Dadbeh Bigonahy",
+    "Computer Science",
+    34,
+    3.7
+  ],
+  [
+    3.3,
+    3,
+    "Jie Fu",
+    "Computer Science Engineering",
+    67,
+    3
+  ],
+  [
+    2.3,
+    3,
+    "Tian Guo",
+    "Computer Science",
+    34,
+    4.3
+  ],
+  [
+    5,
+    3,
+    "Kyumin Lee",
+    "Computer Science",
+    100,
+    2.3
+  ],
+  [
+    3.3,
+    3,
+    "Marty Ferguson",
+    "Business",
+    67,
+    3.3
+  ],
+  [
+    2.3,
+    3,
+    "Jim Doyle",
+    "Psychology",
+    0,
+    4.3
+  ],
+  [
+    4.7,
+    3,
+    "Gizem Arslan",
+    "Languages",
+    100,
+    3
+  ],
+  [
+    3.3,
+    3,
+    "Boris Iskra",
+    "Computer Science",
+    67,
+    3.3
+  ],
+  [
+    2,
+    3,
+    "Eric Overstrom",
+    "Biology",
+    0,
+    4.7
+  ],
+  [
+    1.3,
+    3,
+    "Alexandrina Agloro",
+    "Humanities",
+    0,
+    3.3
+  ],
+  [
+    4,
+    3,
+    "Mohammed El Hamzaoui",
+    "Humanities",
+    100,
+    3
+  ],
+  [
+    4,
+    3,
+    "Sixian Jin",
+    "Mathematics",
+    67,
+    1.3
+  ],
+  [
+    4.7,
+    3,
+    "Adam Sales",
+    "Mathematics",
+    67,
+    2.7
+  ],
+  [
+    2.7,
+    3,
+    "Daniel Treku",
+    "Business",
+    67,
+    2
+  ],
+  [
+    2.3,
+    3,
+    "Adrienne Phillips",
+    "Business",
+    34,
+    2.7
+  ],
+  [
+    2.8,
+    3,
+    "Eve Rifkah",
+    "English",
+    "N/A",
+    2.3
+  ],
+  [
+    4,
+    3,
+    "Jason Steele",
+    "Physical Ed",
+    "N/A",
+    3
+  ],
+  [
+    3.3,
+    3,
+    "B.Veena Shankara N.Rao",
+    "Mathematics",
+    67,
+    3.3
+  ],
+  [
+    3.3,
+    3,
+    "Albert Simeoni",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    1.3,
+    3,
+    "Criselda Toto",
+    "Mathematics",
+    "N/A",
+    5
+  ],
+  [
+    4.7,
+    3,
+    "Elisabeth Stoddard",
+    "Humanities",
+    100,
+    2
+  ],
+  [
+    4.3,
+    3,
+    "Alan Vaudreuil",
+    "Music",
+    100,
+    2.3
+  ],
+  [
+    4.3,
+    3,
+    "Yarkin Doroz",
+    "Engineering",
+    100,
+    4
+  ],
+  [
+    3.3,
+    3,
+    "Alireza Ebadi",
+    "Engineering",
+    67,
+    3
+  ],
+  [
+    3.7,
+    3,
+    "Raisa Trubko",
+    "Physics",
+    67,
+    4
+  ],
+  [
+    4.3,
+    3,
+    "Zoe Eddy",
+    "Humanities",
+    100,
+    1.7
+  ],
+  [
+    2,
+    3,
+    "Diana Alatalo",
+    "Biomedical Engineering",
+    34,
+    2.7
+  ],
+  [
+    1,
+    3,
+    "Marion Emmert",
+    "Chemistry",
+    0,
+    5
+  ],
+  [
+    4.3,
+    3,
+    "Vasfiye Tuzel",
+    "Physics",
+    "N/A",
+    2.3
+  ],
+  [
+    1.7,
+    3,
+    "Kateryna Friedman",
+    "Physics",
+    0,
+    2.7
+  ],
+  [
+    4.7,
+    3,
+    "Althea Danielski",
+    "Writing",
+    67,
+    2.7
+  ],
+  [
+    4.7,
+    3,
+    "Ahmet Sabuncu",
+    "Engineering",
+    100,
+    2.3
+  ],
+  [
+    1.3,
+    3,
+    "Mahamadou Sagna",
+    "Sociology",
+    0,
+    2
+  ],
+  [
+    1.3,
+    3,
+    "Ananthalakshmy Krishna Moorthy",
+    "Engineering",
+    0,
+    4.3
+  ],
+  [
+    4,
+    2,
+    "Mark Norige",
+    "Biomedical Engineering",
+    "N/A",
+    1
+  ],
+  [
+    3,
+    2,
+    "Patrick Flaherty",
+    "Biomedical Engineering",
+    100,
+    4.5
+  ],
+  [
+    1.5,
+    2,
+    "Justin Wang",
+    "Business",
+    0,
+    2.5
+  ],
+  [
+    5,
+    2,
+    "Sharon Johnson",
+    "Engineering",
+    100,
+    3.5
+  ],
+  [
+    3,
+    2,
+    "Guanying Peng",
+    "Mathematics",
+    50,
+    4
+  ],
+  [
+    5,
+    2,
+    "Carlo Pinciroli",
+    "Computer Science amp Engineering",
+    100,
+    2.5
+  ],
+  [
+    2.5,
+    2,
+    "David Miller",
+    "Business",
+    50,
+    3.5
+  ],
+  [
+    5,
+    2,
+    "Adam Lammert",
+    "Biomedical Engineering",
+    100,
+    2.5
+  ],
+  [
+    1,
+    2,
+    "Shelley Zhang",
+    "Computer Science",
+    0,
+    3.5
+  ],
+  [
+    1,
+    2,
+    "Shams Bhada",
+    "Engineering",
+    0,
+    4.5
+  ],
+  [
+    1.5,
+    2,
+    "Nan Ma",
+    "Architecture",
+    0,
+    5
+  ],
+  [
+    1,
+    2,
+    "Allison Hunter",
+    "Biology",
+    0,
+    3
+  ],
+  [
+    2.5,
+    2,
+    "James Cocola",
+    "English",
+    50,
+    2.5
+  ],
+  [
+    1.3,
+    2,
+    "Fred Hutson",
+    "Science",
+    "N/A",
+    4.5
+  ],
+  [
+    4,
+    2,
+    "Rajib Mallick",
+    "Engineering",
+    "N/A",
+    2.5
+  ],
+  [
+    2.5,
+    2,
+    "Aleshia Carlsen",
+    "Physical Education",
+    "N/A",
+    3
+  ],
+  [
+    2.5,
+    2,
+    "Xuemao Zhang",
+    "Mathematics",
+    "N/A",
+    4
+  ],
+  [
+    4.5,
+    2,
+    "Joshua Harmon",
+    "English",
+    "N/A",
+    1.5
+  ],
+  [
+    4.8,
+    2,
+    "Adriana Hera",
+    "Engineering",
+    "N/A",
+    4
+  ],
+  [
+    5,
+    2,
+    "Seong-kyun Im",
+    "Engineering",
+    "N/A",
+    1.5
+  ],
+  [
+    5,
+    2,
+    "Shari Worthington",
+    "Business",
+    100,
+    3
+  ],
+  [
+    3,
+    2,
+    "Elizabeth Victor",
+    "Humanities",
+    50,
+    2.5
+  ],
+  [
+    5,
+    2,
+    "Justin Laplante",
+    "Psychology",
+    100,
+    1.5
+  ],
+  [
+    5,
+    2,
+    "Matthew Robinson",
+    "Architecture",
+    100,
+    2
+  ],
+  [
+    3.5,
+    2,
+    "James Urban",
+    "Engineering",
+    100,
+    3.5
+  ],
+  [
+    4,
+    2,
+    "Oren Mangoubi",
+    "Mathematics",
+    100,
+    4
+  ],
+  [
+    4.5,
+    2,
+    "Brent Wetters",
+    "Music",
+    50,
+    1.5
+  ],
+  [
+    4.5,
+    2,
+    "Dylan Foran",
+    "Physical Education",
+    100,
+    1
+  ],
+  [
+    3.5,
+    2,
+    "Källan Berglund",
+    "Physics",
+    50,
+    1
+  ],
+  [
+    5,
+    2,
+    "Patrick Crowe",
+    "Theater",
+    100,
+    2.5
+  ],
+  [
+    5,
+    2,
+    "Christopher Bartley",
+    "Physical Ed",
+    "N/A",
+    1
+  ],
+  [
+    5,
+    2,
+    "Mcrae Banks",
+    "Business",
+    "N/A",
+    2.5
+  ],
+  [
+    5,
+    2,
+    "Shawn Lynch",
+    "Humanities",
+    "N/A",
+    1
+  ],
+  [
+    5,
+    2,
+    "Shaun Marshall",
+    "Mathematics",
+    "N/A",
+    3
+  ],
+  [
+    5,
+    2,
+    "Donald Barry",
+    "Physics",
+    "N/A",
+    2.5
+  ],
+  [
+    2,
+    2,
+    "Carolyn Mayer",
+    "Mathematics",
+    50,
+    4
+  ],
+  [
+    5,
+    2,
+    "Aarti Madan",
+    "Languages",
+    "N/A",
+    3
+  ],
+  [
+    4.5,
+    2,
+    "Erin Ottmar",
+    "Psychology",
+    100,
+    2
+  ],
+  [
+    3.5,
+    2,
+    "Boquan Li",
+    "Engineering",
+    50,
+    3
+  ],
+  [
+    5,
+    2,
+    "Emily Gioelli",
+    "History",
+    100,
+    2
+  ],
+  [
+    4,
+    2,
+    "Torumoy Ghoshal",
+    "Computer Science",
+    100,
+    2
+  ],
+  [
+    1,
+    2,
+    "Yonatan Ashenafi",
+    "Mathematics",
+    0,
+    3.5
+  ],
+  [
+    2.5,
+    2,
+    "Suat Ay",
+    "Engineering",
+    75,
+    4
+  ],
+  [
+    2.3,
+    2,
+    "Bridgette Servattius",
+    "Mathematics",
+    0,
+    3
+  ],
+  [
+    1.5,
+    2,
+    "Amanda Dionne",
+    "Education",
+    0,
+    4
+  ],
+  [
+    5,
+    2,
+    "Michael Timko",
+    "Chemical Engineering",
+    100,
+    4
+  ],
+  [
+    3,
+    2,
+    "Jitendra Singh",
+    "Computer Science",
+    50,
+    4.5
+  ],
+  [
+    3.3,
+    2,
+    "Laila Abu-Lail",
+    "Engineering",
+    100,
+    3.5
+  ],
+  [
+    3.5,
+    2,
+    "Jerome Schaufeld",
+    "Business",
+    50,
+    2
+  ],
+  [
+    1.5,
+    2,
+    "Joo Baek Kim",
+    "Business",
+    0,
+    4
+  ],
+  [
+    3.3,
+    2,
+    "Paul Buono",
+    "Music",
+    "N/A",
+    2
+  ],
+  [
+    4,
+    2,
+    "Andrea Arnold",
+    "Mathematics",
+    100,
+    2.5
+  ],
+  [
+    2,
+    2,
+    "Fred Floru",
+    "Engineering",
+    0,
+    4
+  ],
+  [
+    5,
+    2,
+    "Sandra Duguay",
+    "English & Writing",
+    100,
+    2
+  ],
+  [
+    3,
+    2,
+    "Ralihe Villagran",
+    "Mathematics",
+    67,
+    3.5
+  ],
+  [
+    3,
+    2,
+    "Corey Dehner",
+    "Global & International Studies",
+    50,
+    4.5
+  ],
+  [
+    2,
+    2,
+    "Kimberly Belli",
+    "Engineering",
+    "N/A",
+    4.5
+  ],
+  [
+    3.5,
+    2,
+    "Terri Camesano",
+    "Chemistry",
+    "N/A",
+    2
+  ],
+  [
+    5,
+    2,
+    "Islam Hussein",
+    "Engineering",
+    "N/A",
+    4
+  ],
+  [
+    2.3,
+    2,
+    "Lisa O'Connor",
+    "Computer Science",
+    "N/A",
+    2.5
+  ],
+  [
+    4,
+    2,
+    "Andrew Teixeira",
+    "Chemical Engineering",
+    50,
+    4
+  ],
+  [
+    2,
+    2,
+    "Ivon Arroyo",
+    "Psychology",
+    100,
+    2
+  ],
+  [
+    4.5,
+    2,
+    "Brajendra Mishra",
+    "Engineering",
+    100,
+    3.5
+  ],
+  [
+    3.5,
+    2,
+    "Purvi Shah",
+    "Business",
+    50,
+    3.5
+  ],
+  [
+    5,
+    2,
+    "Dan Karol",
+    "Computer Science",
+    "N/A",
+    2.5
+  ],
+  [
+    4,
+    2,
+    "Reeta Rao",
+    "Biology",
+    50,
+    5
+  ],
+  [
+    5,
+    2,
+    "Anna Cheng",
+    "Languages",
+    100,
+    3
+  ],
+  [
+    5,
+    2,
+    "Richard Freije",
+    "Social Science",
+    100,
+    3.5
+  ],
+  [
+    5,
+    2,
+    "Kelly Colvin",
+    "History",
+    100,
+    2
+  ],
+  [
+    5,
+    2,
+    "Rose Bohrer",
+    "Computer Science",
+    100,
+    2
+  ],
+  [
+    1,
+    2,
+    "Xiaowei Teng",
+    "Chemical Engineering",
+    0,
+    4
+  ],
+  [
+    1,
+    2,
+    "Brian Carpenter",
+    "Computer Science",
+    0,
+    5
+  ],
+  [
+    4,
+    2,
+    "Mostafa Asheghan",
+    "Engineering",
+    100,
+    2.5
+  ],
+  [
+    5,
+    2,
+    "Raul Orduna Picon",
+    "Chemistry",
+    100,
+    1.5
+  ],
+  [
+    5,
+    2,
+    "Adam Wagner",
+    "Mathematics",
+    100,
+    3
+  ],
+  [
+    2.5,
+    1,
+    "Slobodan Pajic",
+    "Engineering",
+    "N/A",
+    4
+  ],
+  [
+    5,
+    1,
+    "Eric Keys",
+    "Social Science",
+    "N/A",
+    1
+  ],
+  [
+    2,
+    1,
+    "Melissa Butler",
+    "Humanities",
+    0,
+    2
+  ],
+  [
+    1,
+    1,
+    "Sarah Strauss",
+    "Global & International Studies",
+    0,
+    5
+  ],
+  [
+    1,
+    1,
+    "Maklhouf Makhlouf",
+    "Engineering",
+    0,
+    5
+  ],
+  [
+    2,
+    1,
+    "Daniel Reichman",
+    "Computer Science",
+    0,
+    4
+  ],
+  [
+    5,
+    1,
+    "Kristin Boudreau",
+    "Humanities",
+    100,
+    3
+  ],
+  [
+    4,
+    1,
+    "Wanyi Chen",
+    "Business",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Berk Sunar",
+    "Engineering",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Sarah Lucie",
+    "Theater",
+    100,
+    2
+  ],
+  [
+    3,
+    1,
+    "Sijing Liu",
+    "Mathematics",
+    100,
+    1
+  ],
+  [
+    5,
+    1,
+    "Lalitha Devarakonda",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Premananda Indic",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    4,
+    1,
+    "Mohamad Farzinmoghadam",
+    "Engineering",
+    100,
+    4
+  ],
+  [
+    1,
+    1,
+    "Julian Center",
+    "Computer Science",
+    0,
+    4
+  ],
+  [
+    4,
+    1,
+    "Tiffiny Butler",
+    "Biomedical Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Richard Gram",
+    "Business",
+    100,
+    4
+  ],
+  [
+    4.5,
+    1,
+    "Jeffrey Kendall",
+    "Business",
+    "N/A",
+    4
+  ],
+  [
+    4.5,
+    1,
+    "John Urang",
+    "Humanities",
+    "N/A",
+    2
+  ],
+  [
+    5,
+    1,
+    "Lifeng Lai",
+    "Computer Science Engineering",
+    100,
+    4
+  ],
+  [
+    1,
+    1,
+    "Curtis Abel",
+    "Humanities",
+    0,
+    4
+  ],
+  [
+    5,
+    1,
+    "Chris Chagnon",
+    "Business",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Olufunmilayo Ayobami",
+    "Biomedical Engineering",
+    100,
+    2
+  ],
+  [
+    2,
+    1,
+    "Nicholas Chisholm",
+    "Mathematics",
+    0,
+    4
+  ],
+  [
+    5,
+    1,
+    "Elizabeth Lingo",
+    "Business",
+    100,
+    3
+  ],
+  [
+    4,
+    1,
+    "Richard Marchetti",
+    "Psychology",
+    100,
+    1
+  ],
+  [
+    3,
+    1,
+    "Karen Murray",
+    "Business",
+    100,
+    1
+  ],
+  [
+    1,
+    1,
+    "Shamim Hunt",
+    "Philosophy",
+    0,
+    2
+  ],
+  [
+    5,
+    1,
+    "Ingrid Shockey",
+    "Global International Studies",
+    100,
+    5
+  ],
+  [
+    1,
+    1,
+    "Khalid Saeed",
+    "Social Science",
+    0,
+    2
+  ],
+  [
+    4.5,
+    1,
+    "Greg Henry",
+    "Mathematics",
+    "N/A",
+    3
+  ],
+  [
+    1,
+    1,
+    "Ronald Larochelle",
+    "Chemistry",
+    "N/A",
+    5
+  ],
+  [
+    4,
+    1,
+    "Arne Gericke",
+    "Science",
+    100,
+    2
+  ],
+  [
+    3,
+    1,
+    "Alice Squires",
+    "Engineering",
+    "N/A",
+    2
+  ],
+  [
+    3.5,
+    1,
+    "Ross Tubo",
+    "Biomedical Engineering",
+    "N/A",
+    2
+  ],
+  [
+    3.5,
+    1,
+    "Joshua WU",
+    "Mathematics",
+    "N/A",
+    4
+  ],
+  [
+    3,
+    1,
+    "William Troy",
+    "Business",
+    "N/A",
+    3
+  ],
+  [
+    5,
+    1,
+    "Ingrid Shockey",
+    "Social Science",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Jeanine Dudle",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "anita mattson",
+    "Chemistry",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Inna Nechipurenko",
+    "Biology",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Laura Eckelman",
+    "Theater",
+    100,
+    3
+  ],
+  [
+    4,
+    1,
+    "Kwamie Dunbar",
+    "Business",
+    100,
+    3
+  ],
+  [
+    3.5,
+    1,
+    "Victoria Sapko",
+    "Mathematics",
+    "N/A",
+    3
+  ],
+  [
+    4.5,
+    1,
+    "Michael Leal",
+    "Biomedical Engineering",
+    "N/A",
+    2
+  ],
+  [
+    4.5,
+    1,
+    "Renah Razzaq",
+    "Social Science",
+    "N/A",
+    2
+  ],
+  [
+    3.5,
+    1,
+    "John Staley",
+    "Social Science",
+    "N/A",
+    2
+  ],
+  [
+    5,
+    1,
+    "B. McCarthy",
+    "English",
+    "N/A",
+    1
+  ],
+  [
+    5,
+    1,
+    "Brian Meacham",
+    "Engineering",
+    100,
+    4
+  ],
+  [
+    5,
+    1,
+    "John Anderson",
+    "Education",
+    "N/A",
+    1
+  ],
+  [
+    3,
+    1,
+    "Kenneth Elovitz",
+    "Engineering",
+    0,
+    3
+  ],
+  [
+    5,
+    1,
+    "Robert Sarnie",
+    "Business",
+    100,
+    2
+  ],
+  [
+    1,
+    1,
+    "Nicholas Dempsey",
+    "Engineering",
+    0,
+    4
+  ],
+  [
+    2,
+    1,
+    "Narahara Dingari",
+    "Computer Science",
+    0,
+    3
+  ],
+  [
+    5,
+    1,
+    "Sakire Arslan Ay",
+    "Computer Science",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Charlotte Richard",
+    "History",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Abby Fulton",
+    "Mathematics",
+    100,
+    1
+  ],
+  [
+    5,
+    1,
+    "Matt Oney",
+    "Physical Education",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Markus Nemitz",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Taimoor Afzal",
+    "Biomedical Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Catherine Whittington",
+    "Biomedical Engineering",
+    100,
+    2
+  ],
+  [
+    5,
+    1,
+    "Charlie Roberts",
+    "Computer Science",
+    100,
+    2
+  ],
+  [
+    1,
+    1,
+    "Patti Zhang Musacchio",
+    "Chemistry",
+    0,
+    3
+  ],
+  [
+    4.5,
+    1,
+    "Susan Landau",
+    "Social Science",
+    "N/A",
+    4
+  ],
+  [
+    4.5,
+    1,
+    "Ryan Flynn",
+    "Physical Education",
+    "N/A",
+    1
+  ],
+  [
+    3,
+    1,
+    "Ryan Baker",
+    "Psychology",
+    "N/A",
+    4
+  ],
+  [
+    2.5,
+    1,
+    "Umberto Berardi",
+    "Engineering",
+    "N/A",
+    4
+  ],
+  [
+    5,
+    1,
+    "Stephen Nestinger",
+    "Engineering",
+    "N/A",
+    3
+  ],
+  [
+    2,
+    1,
+    "Tony Bologna",
+    "Women's Studies",
+    0,
+    4
+  ],
+  [
+    4,
+    1,
+    "Elissa Ross",
+    "Mathematics",
+    "N/A",
+    2
+  ],
+  [
+    4,
+    1,
+    "Karen Legasse",
+    "Chemistry",
+    100,
+    4
+  ],
+  [
+    5,
+    1,
+    "Olivia D'Ambrosio",
+    "Theater",
+    100,
+    1
+  ],
+  [
+    3,
+    1,
+    "Megan Sethi",
+    "History",
+    100,
+    2
+  ],
+  [
+    3,
+    1,
+    "Ali Gholipour",
+    "Computer Science",
+    0,
+    3
+  ],
+  [
+    5,
+    1,
+    "Michael Ahern",
+    "Business",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Ted Clancy",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Chelsea Barr",
+    "Chemistry",
+    100,
+    4
+  ],
+  [
+    3,
+    1,
+    "Hope Jordan",
+    "Writing",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Alex Maag",
+    "Chemical Engineering",
+    100,
+    2
+  ],
+  [
+    4,
+    1,
+    "Harold Walker",
+    "Engineering",
+    100,
+    1
+  ],
+  [
+    5,
+    1,
+    "Richard Lopez",
+    "Psychology",
+    100,
+    3
+  ],
+  [
+    5,
+    1,
+    "Susrutha Sukhavasi",
+    "Engineering",
+    100,
+    1
+  ],
+  [
+    5,
+    1,
+    "Roshanak Bigonah",
+    "Humanities",
+    100,
+    2
+  ],
+  [
+    4,
+    1,
+    "Ameya Jagtap",
+    "Engineering",
+    100,
+    3
+  ],
+  [
+    0,
+    0,
+    "Bo Tang",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Nguyenho Ho",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Brian Meachem",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Ahmedul Kabir",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Andreas Alexandrou",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Ali Rangwala",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jennifer De Winter",
+    "Humanities",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Varun Kasireddy",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "James Ryan",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Abigail Kelley",
+    "Psychology",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "James Hanlan",
+    "History",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Stephen Muscolino",
+    "Writing",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Christopher Bartley",
+    "Physical Education",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Hsin-Han Hung",
+    "Languages",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Ernesto Cáseres",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Michael Gennert",
+    "Computer Science Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Mark Miller",
+    "Law",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Haihong Li",
+    "History",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Wang Tsung-Yi",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Maxwell Morton",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jorge Toro",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Elham Ghaem-Maghami",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "David Loubier",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Daniel Flickinger",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Makhlouf Makhlouf",
+    "Biomedical Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Alexandros Lioulemes",
+    "computer science and electrical engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Abbas Mardani",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Richard Quimby",
+    "Physics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jian Zhu",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Matt Cote",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Robert Long",
+    "Physics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Kevin Sweeney",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Heineman T.",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jie Fu",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Samuel Politz",
+    "Biology",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Paul Russell",
+    "History",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jermoh Kamara",
+    "Social Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Blake Nelson",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Hayden Furcolo",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jagannath Jayachandran",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Mitchell Lutch",
+    "Music",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Muthu Selvaraj",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "William McCarthy",
+    "Physics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Mahamadou Sagna",
+    "Sociology",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Constantinos Chamzas",
+    "computer science and electrical engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Tsi Tsi Masvawure",
+    "Humanities",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Joyce Hyde",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Roee Shraga",
+    "Computer Science",
+    100,
+    0
+  ],
+  [
+    0,
+    0,
+    "David Samson",
+    "Humanities",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Kristen Shake",
+    "Geography",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Assaad Farhat",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Bill Martin",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Kenneth Stafford",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "James Chiarelli",
+    "Global amp International Studies",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Ciro Dimeglio",
+    "Chemistry",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Kenneth Wermann",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Vance Wilson",
+    "Management",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jack Hanlon",
+    "Chemistry",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Suzanne Scarlata",
+    "Chemistry",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Patricia Musacchio",
+    "Chemistry",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Aswin Gnanaskandan",
+    "Engineering",
+    100,
+    0
+  ],
+  [
+    0,
+    0,
+    "Mitra Anand",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Luciana Burdi",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Crystal Brown",
+    "Economics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Siamak Faal",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Siavash Farzan",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Kathrine Foo",
+    "Humanities",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Nii Ollenu",
+    "Accounting",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "John-Michael Davis",
+    "Geography",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Lina Muñoz-Márquez",
+    "Languages",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Samuel Poliyz",
+    "Biology",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Ravindra Datta",
+    "Biomedical Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Clifford Lindsay",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Khalid Khalid Saeed",
+    "Social Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Jian Zhao",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Thierry Petit",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Lee Moradi",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Carl Moxey",
+    "Biology",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Sergey Makaroff",
+    "Engineering",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Paul Delvy",
+    "Computer Science",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Nick Carter",
+    "Fine Arts",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "ABDULLAH YILDIZBASI",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Dana Ferranti",
+    "Mathematics",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Nima Kordzadeh",
+    "Business",
+    "N/A",
+    0
+  ],
+  [
+    0,
+    0,
+    "Melissa Kagen",
+    "Design",
+    "N/A",
+    0
+  ]
+]

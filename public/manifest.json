@@ -6,15 +6,19 @@
     "action": {
       "default_popup": "index.html"
     },
-    "permissions": [],
+    "web_accessible_resources": [
+      {
+        "resources": ["./ratemydata/*"],
+        "matches": ["https://planner.wpi.edu/*"]
+      }
+    ],
+    "host_permissions": [
+      "https://planner.wpi.edu/"
+    ],
      "content_scripts": [
       {
         "matches": ["https://planner.wpi.edu/*"],
         "js": ["append.js"]
-      },
-      {
-        "js": ["findName.jsx"],
-        "matches": ["https://planner.wpi.edu/*"]
       }
      ],
 
