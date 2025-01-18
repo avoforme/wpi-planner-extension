@@ -63,10 +63,9 @@ const addProfessorPopup = (professorName, profData) => {
       <div class="popup-content">
         <h4>Professor: ${profData.profName}</h4>
         <p><strong>Department:</strong> ${profData.department}</p>
-        <p><strong>University:</strong> ${profData.university}</p>
         <p><strong>Rating:</strong> ${profData.rating} / 5.0</p>
         <p><strong>Ratings Count:</strong> ${profData.ratingCount}</p>
-        <p><strong>Would Take Again:</strong> ${profData.wouldTakeAgain}</p>
+        <p><strong>Would Take Again:</strong> ${profData.wouldTakeAgain}%</p>
         <p><strong>Level of Difficulty:</strong> ${profData.difficulty}</p>
       </div>
     `;
@@ -121,10 +120,10 @@ const addProfessorPopup = (professorName, profData) => {
 // })
 
 
-const getCourseName = (courseItem) => {
-  var courseName = courseItem.getElementsByTagName('td')[1].innerText;
-  return courseName;
-}
+// const getCourseName = (courseItem) => {
+//   var courseName = courseItem.getElementsByTagName('td')[1].innerText;
+//   return courseName;
+// }
 
 const onInnerTextChange = (element, callback) => {
   const observer = new MutationObserver(mutations => {

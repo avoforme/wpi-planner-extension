@@ -18,8 +18,6 @@ chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
   });
 
 const getProfData = (professorName) => {
-    // Send a message to the background script
-    console.log("getting data for ", professorName);
     if (!hasLoaded) 
         loadProfData();
 
@@ -41,18 +39,17 @@ const loadProfData = () => {
                 const ratingCount = prof[1];
                 const profName = prof[2];
                 const department = prof[3];
-                const university = prof[4];
-                const wouldTakeAgain = prof[5];
-                const difficulty = prof[6];
+                const wouldTakeAgain = prof[4];
+                const difficulty = prof[5];
                 profReviewData[profName] = {
-                    profName,
-                    rating,
-                    ratingCount,
-                    department,
-                    university,
-                    wouldTakeAgain,
-                    difficulty
+                    profName: profName,
+                    rating: rating,
+                    ratingCount: ratingCount,
+                    department: department,
+                    wouldTakeAgain: wouldTakeAgain,
+                    difficulty: difficulty
                 };
+                console.log(profReviewData[profName])
             });
             console.log(profReviewData);
             return profReviewData;
