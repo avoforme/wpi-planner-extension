@@ -1,11 +1,3 @@
-
-// THIS DOES NOT WORK btw
-// document.addEventListener("DOMContentLoaded", (event) => {
-//   console.log("DOM fully loaded and parsed");
-// });
-
-
-
 setTimeout(() => {
   const topScheduleButton = document.getElementsByClassName('sched-TopButtonEnabled')[3];
   topScheduleButton.addEventListener("click", () => {
@@ -31,9 +23,14 @@ setTimeout(() => {
             const onReceivedProfessorData = (professorData) => {
               // const sectionNameCheckbox = profNameStr.getElementsByClassName("gwt-CheckBox")[0];
               // const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
-              
-              professorName.innerText = professorName.innerText + " (" + professorData.rating + ")";
-              addProfessorPopup(professorName, professorData);
+              if (professorData) {
+                professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
+                addProfessorPopup(professorName, professorData);
+                onInnerTextChange(professorName, () => {
+                  if (professorName.innerText != professorData.profName + " (" + professorData.rating + ")")
+                    professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
+                });
+              }
             }
             
             // get data from service worker
@@ -124,8 +121,19 @@ const addProfessorPopup = (professorName, profData) => {
 // })
 
 
-
 const getCourseName = (courseItem) => {
   var courseName = courseItem.getElementsByTagName('td')[1].innerText;
   return courseName;
+}
+
+const onInnerTextChange = (element, callback) => {
+  const observer = new MutationObserver(mutations => {
+    mutations.forEach(mutation => {
+      if (mutation.type === 'childList') {
+        callback();
+      }
+    });
+  });
+
+  observer.observe(element, { childList: true });
 }

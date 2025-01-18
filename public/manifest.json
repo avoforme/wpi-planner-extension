@@ -18,7 +18,7 @@
      "content_scripts": [
       {
         "matches": ["https://planner.wpi.edu/*"],
-        "js": ["append.js"]
+        "js": ["append.js", "findName.js"]
       }
      ],
 
