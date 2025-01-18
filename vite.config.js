@@ -10,7 +10,15 @@ export default defineConfig({
         {
           src: 'public/manifest.json',
           dest: '.',
-        }
+        },
+        {
+          src: 'src/content-scripts/*',
+          dest: '.',
+        },
+        {
+          src: 'src/worker-scripts/*',
+          dest: '.',
+        },
       ],
     }),
   ],

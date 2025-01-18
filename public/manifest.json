@@ -6,5 +6,15 @@
     "action": {
       "default_popup": "index.html"
     },
-    "permissions": []
+    "permissions": [],
+     "content_scripts": [
+      {
+        "matches": ["https://planner.wpi.edu/*"],
+        "js": ["append.js"]
+      }
+     ],
+     "background": {
+      "service_worker": "worker.js",
+      "type": "module"
+    }
   }
