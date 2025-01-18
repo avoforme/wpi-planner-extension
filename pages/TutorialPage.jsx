@@ -17,7 +17,7 @@ const TutorialPage = ({ onReturn }) => {
 
       <Box className="tutorial-section">
         <h3 className="section-title">Usage</h3>
-        <p className="section-content">Hover over the professor's name to view their rating.</p>
+        <p className="section-content">Hover over the professor's name or the course on <p></p>Schedule tab to view their rating.</p>
       </Box>
       </div>
       <br/>
