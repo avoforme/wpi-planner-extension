@@ -1,19 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Checkbox from './components/Checkbox'
+import { useState } from 'react';
+import './App.css';
+import Checkbox from './components/Checkbox';
+import TutorialPage from '../pages/TutorialPage';
 
 function App() {
-  const [count, setCount] = useState(0);
-  return (
+  const [showTutorial, setShowTutorial] = useState(false);
+
+  return showTutorial ? (
+    <TutorialPage onReturn={() => setShowTutorial(false)} />
+  ) : (
     <>
+      <h2>WPI Planner + Oscar</h2>
 
-      <h2>
-        WPI Planner + Oscar 
-      </h2>
-
-      <div className='option-container'>
+      <div className="option-container">
         <Checkbox>
           <p>Display professor rating</p>
         </Checkbox>
@@ -21,8 +20,10 @@ function App() {
           <p>Display course and professor rating</p>
         </Checkbox>
       </div>
+      <br />
+      <button onClick={() => setShowTutorial(true)}>Show Tutorial</button>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
