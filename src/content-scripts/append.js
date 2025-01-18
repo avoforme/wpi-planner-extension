@@ -18,7 +18,7 @@ setTimeout(() => {
           const professorNames = courseItem.getElementsByClassName('PeriodSelectProf');
           [...professorNames].forEach(professorName => {
 
-            const profNameStr = professorName.innerText;
+            const profNameStr = removeParenthesesAtEnd(professorName.innerText);
             
             const onReceivedProfessorData = (professorData) => {
               // const sectionNameCheckbox = profNameStr.getElementsByClassName("gwt-CheckBox")[0];
@@ -31,14 +31,18 @@ setTimeout(() => {
                     professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
                 });
               }
+              else {
+                professorName.innerText = profNameStr + " ( N/A )";
+                onInnerTextChange(professorName, () => {
+                  if (professorName.innerText != profNameStr + " ( N/A )")
+                    professorName.innerText = profNameStr + " ( N/A )";
+                });
+              }
             }
-            
             // get data from service worker
             (async () => { 
               const profData = await chrome.runtime.sendMessage({text: 'getProfessorData', professorName: profNameStr});
-              console.log("received: ", profData);
               onReceivedProfessorData(profData);
-
             })();
           });
         }
@@ -134,4 +138,9 @@ const onInnerTextChange = (element, callback) => {
   });
 
   observer.observe(element, { childList: true });
+}
+
+// Because the name we get will be appended with rating, and this is the easiest way to do it.
+function removeParenthesesAtEnd(str) {
+  return str.replace(/\s*\(.*\)$/, '');
 }

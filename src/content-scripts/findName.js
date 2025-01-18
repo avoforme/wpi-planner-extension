@@ -1,7 +1,6 @@
 let popup = document.createElement("div");
 
 addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
-  console.log(event);
   const elem = event.target; 
   const profName = removeParenthesesAtEnd(doThing(elem)); 
   console.log(profName);
@@ -24,7 +23,7 @@ function removeParenthesesAtEnd(str) {
   return str.replace(/\s*\(.*\)$/, '');
 }
 
-addEventListenersToClass("permutationPeriodItem", "mouseleave", (event) => {
+addEventListenersToClass("permutationPeriodItem", "mouseleave", (_) => {
   console.log("mouseout");
   if (popup)
     popup.remove();

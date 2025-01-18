@@ -3,7 +3,6 @@ var hasLoaded = false;
 
 //insert things here, including modules and other stuff
 chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
-    console.log(msg.professorName)
     if (msg.text == 'getProfessorData') {
         // get the professor name
         const professorData = getProfData(msg.professorName);
@@ -28,7 +27,6 @@ const loadProfData = () => {
     hasLoaded = true;
     console.log("loading data");
     const fileUrl = chrome.runtime.getURL('ratemydata/dump3.json');
-    console.log(fileUrl);
     fetch(fileUrl)
         .then(response => {
           console.log(response);
@@ -49,9 +47,7 @@ const loadProfData = () => {
                     wouldTakeAgain: wouldTakeAgain,
                     difficulty: difficulty
                 };
-                console.log(profReviewData[profName])
             });
-            console.log(profReviewData);
             return profReviewData;
         })
         .catch(error => {
