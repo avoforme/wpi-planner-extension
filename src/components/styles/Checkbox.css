@@ -1,4 +1,65 @@
+/* Checkbox container matching the tutorial page theme */
 .checkbox-container {
-  display: flex;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
   
-}
+  /* Hover effect for a glowing feel */
+  .checkbox-container:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: scale(1.03);
+  }
+  
+  /* Custom dark-themed checkbox */
+  .checkbox-container input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    background-color: transparent;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+  }
+  
+  /* Checked state with theme color */
+  .checkbox-container input[type="checkbox"]:checked {
+    background-color: #ff7675; /* Soft red to match the button */
+    border-color: #ff7675;
+    box-shadow: 0 0 10px rgba(255, 118, 117, 0.7);
+  }
+  
+  /* Smooth checkmark animation */
+  .checkbox-container input[type="checkbox"]::after {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 10px;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    top: 2px;
+    left: 7px;
+    transform: scale(0) rotate(45deg);
+    transition: transform 0.2s ease;
+  }
+  
+  /* Checkmark appears when checked */
+  .checkbox-container input[type="checkbox"]:checked::after {
+    transform: scale(1) rotate(45deg);
+  }
+  
+  /* Label text with soft white color */
+  .checkbox-container p {
+    margin: 0;
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.9);
+  }
+  

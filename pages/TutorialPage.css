@@ -1,0 +1,77 @@
+/* Root styling for consistency with the theme */
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #964c4c;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+
+  
+  /* Title styling */
+  .tutorial-title {
+    color: rgba(255, 255, 255, 0.95);
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Introduction paragraph styling */
+  .tutorial-intro {
+    margin-bottom: 25px;
+    color: rgba(255, 255, 255, 0.85);
+    text-align: center;
+  }
+  
+  /* Section styling */
+  .tutorial-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+  }
+  
+  .tutorial-section:hover {
+    transform: scale(1.02);
+  }
+  
+  /* Section title */
+  .section-title {
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    padding-bottom: 5px;
+  }
+  
+  /* Section content */
+  .section-content {
+    color: rgba(255, 255, 255, 0.85);
+  }
+  
+  /* Return button styling */
+  /* .return-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #ff7675;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .return-button:hover {
+    background-color: #d63031;
+    transform: scale(1.05);
+  } */
+  

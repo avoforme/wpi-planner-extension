@@ -1,0 +1,36 @@
+.popover {
+    padding: 16px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 250px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  .popover h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .popover p {
+    margin: 4px 0;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .popover-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .popover-stats div {
+    width: 48%;
+    background-color: #f9f9f9;
+    padding: 8px;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
