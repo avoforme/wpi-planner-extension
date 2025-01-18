@@ -3,7 +3,7 @@ let popup = document.createElement("div");
 addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
   console.log(event);
   const elem = event.target; 
-  profName = doThing(elem); 
+  const profName = removeParenthesesAtEnd(doThing(elem)); 
   console.log(profName);
   
   if (!popup)
@@ -18,6 +18,11 @@ addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) =>
   document.body.appendChild(popup);
   
 });
+
+// Because the name we get will be appended with rating, and this is the easiest way to do it.
+function removeParenthesesAtEnd(str) {
+  return str.replace(/\s*\(.*\)$/, '');
+}
 
 addEventListenersToClass("permutationPeriodItem", "mouseleave", (event) => {
   console.log("mouseout");
@@ -38,10 +43,8 @@ function doThing(elem) {
             }
             const prof = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
             /**CALL THINGS HERE, 'prof' is the Name of the professor. */
-            return prof[0];
-            
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
-            break;
+            return prof[0];
         }
     }
 }
