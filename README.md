@@ -3,8 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/better-wpi-planner/Chrome-Extension">
-  <p> Logo to be updated </p>
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
   <h3 align="center">WPI Planner Chrome Extension</h3>
