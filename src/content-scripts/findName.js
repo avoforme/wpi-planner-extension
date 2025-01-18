@@ -1,6 +1,29 @@
-addEventListenersToClass("permutationPeriodItem", "mouseenter", (event) => {
-    const elem = event.target; 
-    doThing(elem); 
+let popup = document.createElement("div");
+
+addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
+  console.log(event);
+  const elem = event.target; 
+  profName = doThing(elem); 
+  console.log(profName);
+  
+  if (!popup)
+    popup = document.createElement("div");
+  popup.innerHTML = await printProfessorInfo(profName);
+  getProfessorInfoStyles(popup);
+
+  const rect = elem.getBoundingClientRect();
+  popup.style.top = rect.top + window.scrollY + rect.height + 10 + "px";
+  popup.style.left = rect.left + window.scrollX + "px";
+
+  document.body.appendChild(popup);
+  
+});
+
+addEventListenersToClass("permutationPeriodItem", "mouseleave", (event) => {
+  console.log("mouseout");
+  if (popup)
+    popup.remove();
+  popup = null;
 });
 
 function doThing(elem) {
@@ -15,7 +38,7 @@ function doThing(elem) {
             }
             const prof = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
             /**CALL THINGS HERE, 'prof' is the Name of the professor. */
-            console.log(prof)
+            return prof[0];
             
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
             break;
@@ -58,3 +81,33 @@ function addEventListenersToClass(className, eventType, eventHandler) {
 //       "matches": ["https://planner.wpi.edu/*"]
 //     }
 //   ]
+
+
+const printProfessorInfo = async (professorName) => {
+  var profData = await chrome.runtime.sendMessage({text: 'getProfessorData', professorName: professorName});
+  
+  if (profData)
+    return `
+        <div class="popup-content">
+          <h4>Professor: ${profData.profName}</h4>
+          <p><strong>Department:</strong> ${profData.department}</p>
+          <p><strong>Rating:</strong> ${profData.rating} / 5.0</p>
+          <p><strong>Ratings Count:</strong> ${profData.ratingCount}</p>
+          <p><strong>Would Take Again:</strong> ${profData.wouldTakeAgain}%</p>
+          <p><strong>Level of Difficulty:</strong> ${profData.difficulty}</p>
+        </div>
+      `;
+  return "Information not available";
+}
+
+const getProfessorInfoStyles = (popup) => {
+  popup.style.position = "absolute";
+  popup.style.backgroundColor = "white";
+  popup.style.border = "1px solid #ccc";
+  popup.style.padding = "15px";
+  popup.style.boxShadow = "0 2px 10px rgba(0, 0, 0, 0.1)";
+  popup.style.fontFamily = "Arial, sans-serif";
+  popup.style.fontSize = "14px";
+  popup.style.zIndex = "1000";
+}
+    

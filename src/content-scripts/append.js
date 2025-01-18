@@ -78,7 +78,6 @@ const addProfessorPopup = (professorName, profData) => {
     popup.style.boxShadow = "0 2px 10px rgba(0, 0, 0, 0.1)";
     popup.style.fontFamily = "Arial, sans-serif";
     popup.style.fontSize = "14px";
-    popup.style.zIndex = "9999";
   
     // Apply styles to specific elements inside the popup
     const link = popup.querySelector('a');
