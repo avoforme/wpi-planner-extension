@@ -1,21 +1,26 @@
 import React from 'react';
-import './TutorialPage.css'; // Import the CSS file
-
+import './TutorialPage.css'; 
+import Box from '../src/components/Box';
 const TutorialPage = ({ onReturn }) => {
   return (
     <div className="tutorial-container">
       <h2 className="tutorial-title">Tutorial</h2>
       <p className="tutorial-intro">Welcome to the tutorial page!</p>
 
-      <section className="tutorial-section">
+      <div className="option-container">
+      <Box className="tutorial-section">
         <h3 className="section-title">Introduction</h3>
         <p className="section-content">This is a Chrome extension for WPI Planner.</p>
-      </section>
+      </Box>
+      
+      <br/>
 
-      <section className="tutorial-section">
+      <Box className="tutorial-section">
         <h3 className="section-title">Usage</h3>
         <p className="section-content">Hover over the professor's name to view their rating.</p>
-      </section>
+      </Box>
+      </div>
+      <br/>
 
       {/* Return Button */}
       <button className="return-button" onClick={onReturn}>

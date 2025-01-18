@@ -1,4 +1,3 @@
-/* Root styling for consistency with the theme */
 :root {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     line-height: 1.5;
@@ -16,21 +15,18 @@
   
 
   
-  /* Title styling */
   .tutorial-title {
     color: rgba(255, 255, 255, 0.95);
     text-align: center;
     margin-bottom: 20px;
   }
   
-  /* Introduction paragraph styling */
   .tutorial-intro {
     margin-bottom: 25px;
     color: rgba(255, 255, 255, 0.85);
     text-align: center;
   }
   
-  /* Section styling */
   .tutorial-section {
     margin-bottom: 30px;
     padding: 20px;
@@ -43,7 +39,6 @@
     transform: scale(1.02);
   }
   
-  /* Section title */
   .section-title {
     color: rgba(255, 255, 255, 0.95);
     margin-bottom: 10px;
@@ -51,7 +46,6 @@
     padding-bottom: 5px;
   }
   
-  /* Section content */
   .section-content {
     color: rgba(255, 255, 255, 0.85);
   }

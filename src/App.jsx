@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import Checkbox from './components/Checkbox';
+import Box from './components/Box';
 import TutorialPage from '../pages/TutorialPage';
 
 function App() {
@@ -10,15 +10,13 @@ function App() {
     <TutorialPage onReturn={() => setShowTutorial(false)} />
   ) : (
     <>
-      <h2>WPI Planner + Oscar</h2>
+      <img src="../public/logo.png" />
+      <h2>Rate My Planner</h2>
 
       <div className="option-container">
-        <Checkbox>
-          <p>Display professor rating</p>
-        </Checkbox>
-        <Checkbox>
-          <p>Display course and professor rating</p>
-        </Checkbox>
+        <Box>
+          <p>This project is made to expand upon WPI Planner. Having to jump between multiple sites to see course and instructor information can be time consuming, and we hope to improve that by making these information available right in WPI Planner.</p>
+        </Box>
       </div>
       <br />
       <button onClick={() => setShowTutorial(true)}>Show Tutorial</button>
