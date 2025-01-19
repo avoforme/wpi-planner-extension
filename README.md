@@ -42,16 +42,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://better-wpi-planner.github.io/Rate-my-Planner-Site/)
+[[Our site]](https://better-wpi-planner.github.io/Rate-my-Planner-Site/)
 
 This project is made to expand upon WPI Planner. Upon using the website, we noticed that there were many features lacking, that could benefit the experience of students greatly. Having to jump between multiple sites to see course and instructor information can be time consuming, and we hope to improve that by making these information available right in WPI Planner.
+
+## Project demo
+<img src="/public/screenshot0.png" alt="demo">
+<img src="/public/screenshot05.png" alt="demo">
+<img src="/public/screenshot1.png" alt="demo">
+<img src="/public/screenshot2.png" alt="demo">
+<img src="/public/screenshot4.png" alt="demo">
+<img src="/public/screenshot3.png" alt="demo">
+
+
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ### Built With
 
 * Chrome Extention Developer Toolkit
-* Node JS and React
+* React Vite
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
