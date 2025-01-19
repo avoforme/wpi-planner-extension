@@ -82,12 +82,12 @@ const observer = new MutationObserver(mutations => {
               const sectionNameCheckbox = professorName.parentElement.getElementsByClassName("gwt-CheckBox")[0];
               const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
               const sectionNameStr = removeParenthesesAtEnd(sectionName.innerText);
-              if (professorData) {
+              if (professorData && !sectionName.innerText.includes("(")) {
                 sectionName.innerHTML = sectionNameStr + " (" + professorData.rating + "★)";
                 addProfessorPopup(professorName, professorData);
-              }
-              else {
-                sectionName.innerHTML = sectionNameStr + " (N/A)";
+              } 
+              else if(!sectionName.innerText.includes("(")){
+                sectionName.innerHTML = sectionNameStr + "(N/A)";
               }
             }
             // get data from service worker
