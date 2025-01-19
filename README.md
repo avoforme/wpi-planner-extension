@@ -12,7 +12,7 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Devpost </a>
+    <a href="https://devpost.com/software/ratemyplanner">View Devpost </a>
     <!-- &middot; -->
   </p>
 </div>
