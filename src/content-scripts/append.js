@@ -60,6 +60,7 @@ const observer = new MutationObserver(mutations => {
   console.log("Mutation detected" + mutations);
   const topScheduleButton = document.getElementsByClassName('sched-TopButtonEnabled')[3];
   topScheduleButton.addEventListener("click", () => {
+
     console.log("Schedule button clicked");
     // once data has been loaded
     // get all elements with course item mutations
@@ -102,13 +103,17 @@ const observer = new MutationObserver(mutations => {
         }
       })
     });
-  
+
   });
 });
+
 
 observer.observe(body, {
   childList: true, 
 })
+
+
+
 
 // const getCourseName = (courseItem) => {
 //   var courseName = courseItem.getElementsByTagName('td')[1].innerText;

@@ -56,6 +56,11 @@ This project is made to expand upon WPI Planner. Upon using the website, we noti
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
+## RUN PROGRAM
+
+Install the latest release and then follow [[this quick quide]](https://bashvlas.com/blog/install-chrome-extension-in-developer-mode)
+
+
 ### Built With
 
 * Chrome Extention Developer Toolkit
