@@ -15,7 +15,7 @@ function App() {
 
       <div className="option-container">
         <Box>
-          <p>This project is made to expand upon WPI Planner. Having to jump between multiple sites to see course and instructor information can be time consuming, and we hope to improve that by making these information available right in WPI Planner.</p>
+          <p>This project is made to expand upon WPI Planner. Having to jump between multiple sites to see course and instructor information can be time consuming, and we hope to improve that by making the information available right in WPI Planner.</p>
         </Box>
       </div>
       <br />

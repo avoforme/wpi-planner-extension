@@ -12,9 +12,6 @@
         "matches": ["https://planner.wpi.edu/*"]
       }
     ],
-    "host_permissions": [
-      "https://planner.wpi.edu/"
-    ],
      "content_scripts": [
       {
         "matches": ["https://planner.wpi.edu/*"],
