@@ -50,9 +50,7 @@ This project is made to expand upon WPI Planner. Upon using the website, we noti
 <img src="/public/screenshot0.png" alt="demo">
 <img src="/public/screenshot05.png" alt="demo">
 <img src="/public/screenshot1.png" alt="demo">
-<img src="/public/screenshot2.png" alt="demo">
 <img src="/public/screenshot4.png" alt="demo">
-<img src="/public/screenshot3.png" alt="demo">
 
 
 
