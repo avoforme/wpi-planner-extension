@@ -8,6 +8,8 @@ addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) =>
   if (!popup)
     popup = document.createElement("div");
   popup.innerHTML = await printProfessorInfo(profName);
+
+  if (!popup) return;
   getProfessorInfoStyles(popup);
 
   const rect = elem.getBoundingClientRect();

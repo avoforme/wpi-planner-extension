@@ -76,26 +76,18 @@ const observer = new MutationObserver(mutations => {
           // get all element of professor names
           const professorNames = courseItem.getElementsByClassName('PeriodSelectProf');
           [...professorNames].forEach(professorName => {
-
             const profNameStr = removeParenthesesAtEnd(professorName.innerText);
             
             const onReceivedProfessorData = (professorData) => {
-              // const sectionNameCheckbox = profNameStr.getElementsByClassName("gwt-CheckBox")[0];
-              // const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
+              const sectionNameCheckbox = professorName.parentElement.getElementsByClassName("gwt-CheckBox")[0];
+              const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
+              const sectionNameStr = removeParenthesesAtEnd(sectionName.innerText);
               if (professorData) {
-                professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
+                sectionName.innerHTML = sectionNameStr + " (" + professorData.rating + "★)";
                 addProfessorPopup(professorName, professorData);
-                onInnerTextChange(professorName, () => {
-                  if (professorName.innerText != professorData.profName + " (" + professorData.rating + ")")
-                    professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
-                });
               }
               else {
-                professorName.innerText = profNameStr + " ( N/A )";
-                onInnerTextChange(professorName, () => {
-                  if (professorName.innerText != profNameStr + " ( N/A )")
-                    professorName.innerText = profNameStr + " ( N/A )";
-                });
+                sectionName.innerHTML = sectionNameStr + " (N/A)";
               }
             }
             // get data from service worker
@@ -121,15 +113,15 @@ observer.observe(body, {
 // }
 
 const onInnerTextChange = (element, callback) => {
-  const observer = new MutationObserver(mutations => {
-    mutations.forEach(mutation => {
-      if (mutation.type === 'childList') {
-        callback();
-      }
-    });
-  });
+  // const observer = new MutationObserver(mutations => {
+  //   mutations.forEach(mutation => {
+  //     if (mutation.type === 'childList') {
+  //       callback();
+  //     }
+  //   });
+  // });
 
-  observer.observe(element, { childList: true });
+  // observer.observe(element, { childList: true });
 }
 
 // Because the name we get will be appended with rating, and this is the easiest way to do it.
