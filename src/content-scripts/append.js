@@ -1,58 +1,3 @@
-setTimeout(() => {
-  const topScheduleButton = document.getElementsByClassName('sched-TopButtonEnabled')[3];
-  topScheduleButton.addEventListener("click", () => {
-    console.log("Schedule button clicked");
-    // once data has been loaded
-    // get all elements with course item mutations
-    const courseItems = document.getElementsByClassName('permutationCourseItem');
-    [...courseItems].forEach((courseItem) => {
-      // get the button element
-      const thisButton = courseItem.getElementsByTagName("button")[0];
-  
-      // Find the course name
-      // const courseName = getCourseName(courseItem);
-  
-      thisButton.addEventListener("click", () => {
-        if (thisButton.innerText == "▼") {
-          // get all element of professor names
-          const professorNames = courseItem.getElementsByClassName('PeriodSelectProf');
-          [...professorNames].forEach(professorName => {
-
-            const profNameStr = removeParenthesesAtEnd(professorName.innerText);
-            
-            const onReceivedProfessorData = (professorData) => {
-              // const sectionNameCheckbox = profNameStr.getElementsByClassName("gwt-CheckBox")[0];
-              // const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
-              if (professorData) {
-                professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
-                addProfessorPopup(professorName, professorData);
-                onInnerTextChange(professorName, () => {
-                  if (professorName.innerText != professorData.profName + " (" + professorData.rating + ")")
-                    professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
-                });
-              }
-              else {
-                professorName.innerText = profNameStr + " ( N/A )";
-                onInnerTextChange(professorName, () => {
-                  if (professorName.innerText != profNameStr + " ( N/A )")
-                    professorName.innerText = profNameStr + " ( N/A )";
-                });
-              }
-            }
-            // get data from service worker
-            (async () => { 
-              const profData = await chrome.runtime.sendMessage({text: 'getProfessorData', professorName: profNameStr});
-              onReceivedProfessorData(profData);
-            })();
-          });
-        }
-      })
-    });
-  
-  });
-},
-1000);
-
 const addProfessorPopup = (professorName, profData) => {
   professorName.addEventListener("mouseover", (e) => {
     const target = e.target;
@@ -110,18 +55,65 @@ const addProfessorPopup = (professorName, profData) => {
   });
 }
 
-// var body = document.getElementsByTagName('body').addEventListener();
-// const observer = new MutationObserver(function(mutations) {
+var body = document.getElementsByTagName('body')[0];
+const observer = new MutationObserver(mutations => {
+  console.log("Mutation detected" + mutations);
+  const topScheduleButton = document.getElementsByClassName('sched-TopButtonEnabled')[3];
+  topScheduleButton.addEventListener("click", () => {
+    console.log("Schedule button clicked");
+    // once data has been loaded
+    // get all elements with course item mutations
+    const courseItems = document.getElementsByClassName('permutationCourseItem');
+    [...courseItems].forEach((courseItem) => {
+      // get the button element
+      const thisButton = courseItem.getElementsByTagName("button")[0];
+  
+      // Find the course name
+      // const courseName = getCourseName(courseItem);
+  
+      thisButton.addEventListener("click", () => {
+        if (thisButton.innerText == "▼") {
+          // get all element of professor names
+          const professorNames = courseItem.getElementsByClassName('PeriodSelectProf');
+          [...professorNames].forEach(professorName => {
 
-// });
+            const profNameStr = removeParenthesesAtEnd(professorName.innerText);
+            
+            const onReceivedProfessorData = (professorData) => {
+              // const sectionNameCheckbox = profNameStr.getElementsByClassName("gwt-CheckBox")[0];
+              // const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
+              if (professorData) {
+                professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
+                addProfessorPopup(professorName, professorData);
+                onInnerTextChange(professorName, () => {
+                  if (professorName.innerText != professorData.profName + " (" + professorData.rating + ")")
+                    professorName.innerText = professorData.profName + " (" + professorData.rating + ")";
+                });
+              }
+              else {
+                professorName.innerText = profNameStr + " ( N/A )";
+                onInnerTextChange(professorName, () => {
+                  if (professorName.innerText != profNameStr + " ( N/A )")
+                    professorName.innerText = profNameStr + " ( N/A )";
+                });
+              }
+            }
+            // get data from service worker
+            (async () => { 
+              const profData = await chrome.runtime.sendMessage({text: 'getProfessorData', professorName: profNameStr});
+              onReceivedProfessorData(profData);
+            })();
+          });
+        }
+      })
+    });
+  
+  });
+});
 
-// observer.observe(body, {
-//   attributes: true, 
-//   attributeFilter: ['class'],
-//   childList: false, 
-//   characterData: false
-// })
-
+observer.observe(body, {
+  childList: true, 
+})
 
 // const getCourseName = (courseItem) => {
 //   var courseName = courseItem.getElementsByTagName('td')[1].innerText;
