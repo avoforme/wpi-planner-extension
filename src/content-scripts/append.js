@@ -67,6 +67,9 @@ const observer = new MutationObserver(mutations => {
     [...courseItems].forEach((courseItem) => {
       // get the button element
       const thisButton = courseItem.getElementsByTagName("button")[0];
+      if(thisButton.innerText === "▼"){
+        thisButton.click();
+      }
   
       // Find the course name
       // const courseName = getCourseName(courseItem);
