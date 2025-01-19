@@ -6,11 +6,10 @@
     <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
-  <h3 align="center">WPI Planner Chrome Extension</h3>
+  <h3 align="center">Rate My Planner</h3>
 <div>
 
   <p align="center">
-    <br />
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Devpost </a>
@@ -43,19 +42,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://better-wpi-planner.github.io/Rate-my-Planner-Site/)
 
 This project is made to expand upon WPI Planner. Upon using the website, we noticed that there were many features lacking, that could benefit the experience of students greatly. Having to jump between multiple sites to see course and instructor information can be time consuming, and we hope to improve that by making these information available right in WPI Planner.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ### Built With
 
 * Chrome Extention Developer Toolkit
 * Node JS and React
-* [innsert bc i dont remember]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
