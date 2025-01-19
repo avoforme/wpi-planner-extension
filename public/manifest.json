@@ -21,9 +21,11 @@
         "js": ["append.js", "findName.js"]
       }
      ],
-
      "background": {
       "service_worker": "worker.js",
       "type": "module"
+    },
+    "icons": {
+      "128": "128.png"
     }
   }
