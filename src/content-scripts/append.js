@@ -71,10 +71,7 @@ const observer = new MutationObserver(mutations => {
       if(thisButton.innerText === "▼"){
         thisButton.click();
       }
-  
       // Find the course name
-      // const courseName = getCourseName(courseItem);
-  
       thisButton.addEventListener("click", () => {
         if (thisButton.innerText == "▼") {
           // get all element of professor names
@@ -86,10 +83,15 @@ const observer = new MutationObserver(mutations => {
               const sectionNameCheckbox = professorName.parentElement.getElementsByClassName("gwt-CheckBox")[0];
               const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
               const sectionNameStr = removeParenthesesAtEnd(sectionName.innerText);
+              console.log(sectionName.innerText.includes("N/A"))
               if (professorData && !sectionName.innerText.includes("(")) {
                 sectionName.innerHTML = sectionNameStr + " (" + professorData.rating + "★)";
                 addProfessorPopup(professorName, professorData);
               } 
+              else if (professorData && sectionName.innerText.includes("N/A")){
+                sectionName.innerHTML = sectionNameStr + " (" + professorData.rating + "★)";
+                addProfessorPopup(professorName, professorData);
+              }
               else if(!sectionName.innerText.includes("(")){
                 sectionName.innerHTML = sectionNameStr + "(N/A)";
               }
