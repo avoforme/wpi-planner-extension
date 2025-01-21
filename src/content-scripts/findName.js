@@ -2,7 +2,7 @@ let popup = document.createElement("div");
 
 addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
   const elem = event.target; 
-  const profName = removeParenthesesAtEnd(doThing(elem)); 
+  const profName = removeParenthesesAtEnd(getProfName(elem)); 
   console.log(profName);
   
   if (!popup)
@@ -25,14 +25,14 @@ function removeParenthesesAtEnd(str) {
   return str.replace(/\s*\(.*\)$/, '');
 }
 
-addEventListenersToClass("permutationPeriodItem", "mouseleave", (_) => {
+addEventListenersToClass("permutationPeriodItem", "mouseleave", () => {
   console.log("mouseout");
   if (popup)
     popup.remove();
   popup = null;
 });
 
-function doThing(elem) {
+function getProfName(elem) {
     const courseNum = elem.children[0].innerText.replaceAll(" ", "");
     var courses = Array.from(document.getElementsByClassName("permutationCourseItem"));
     for(var i = 0; i < courses.length; i++){
@@ -42,9 +42,9 @@ function doThing(elem) {
                 courses[i].children[0].children[0].children[0].children[0].click()
                 clicked = true;
             }
-            const prof = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
+            const profName = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
-            return prof[0];
+            return profName[0];
         }
     }
 }
@@ -87,6 +87,7 @@ function addEventListenersToClass(className, eventType, eventHandler) {
 
 
 const printProfessorInfo = async (professorName) => {
+  // eslint-disable-next-line no-undef
   var profData = await chrome.runtime.sendMessage({text: 'getProfessorData', professorName: professorName});
   
   if (profData)

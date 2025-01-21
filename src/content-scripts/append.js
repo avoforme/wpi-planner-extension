@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const addProfessorPopup = (professorName, profData) => {
   professorName.addEventListener("mouseover", (e) => {
     const target = e.target;
@@ -109,30 +110,9 @@ const observer = new MutationObserver(mutations => {
   });
 });
 
-
 observer.observe(body, {
   childList: true, 
 })
-
-
-
-
-// const getCourseName = (courseItem) => {
-//   var courseName = courseItem.getElementsByTagName('td')[1].innerText;
-//   return courseName;
-// }
-
-const onInnerTextChange = (element, callback) => {
-  // const observer = new MutationObserver(mutations => {
-  //   mutations.forEach(mutation => {
-  //     if (mutation.type === 'childList') {
-  //       callback();
-  //     }
-  //   });
-  // });
-
-  // observer.observe(element, { childList: true });
-}
 
 // Because the name we get will be appended with rating, and this is the easiest way to do it.
 function removeParenthesesAtEnd(str) {
