@@ -20,9 +20,15 @@
      ],
      "background": {
       "service_worker": "worker.js",
+      "scripts": ["worker.js"],
       "type": "module"
     },
     "icons": {
       "128": "logo.png"
-    }
+    },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "ratemy@planner.com"
+      }
+}
   }

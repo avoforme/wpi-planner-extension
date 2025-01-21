@@ -43,7 +43,6 @@ function doThing(elem) {
                 clicked = true;
             }
             const prof = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
-            /**CALL THINGS HERE, 'prof' is the Name of the professor. */
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
             return prof[0];
         }
