@@ -12,8 +12,9 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://devpost.com/software/ratemyplanner">View Devpost </a>
-    <!-- &middot; -->
+    <a href="https://devpost.com/software/ratemyplanner">View Devpost </a><br>
+    <a href="https://chromewebstore.google.com/detail/rate-my-planner/aajmoobnhedkfkgcbpajklajpofiieli">View Chrome Store </a>
+    
   </p>
 </div>
 
