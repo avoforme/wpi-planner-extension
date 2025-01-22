@@ -38,10 +38,15 @@ function getProfName(elem) {
     for(var i = 0; i < courses.length; i++){
         if (courses[i].children[0].children[0].children[1].innerText === courseNum ){
             var clicked = false;
-            if(courses[i].children[0].children[0].children[0].children[0].innerText === "▶"){
+            if(courses[i].children[0].children.length == 1){
+              if(courses[i].children[0].children[0].children[0].children[0].innerText === "▶"){
                 courses[i].children[0].children[0].children[0].children[0].click()
                 clicked = true;
+              }
             }
+
+
+
             const profName = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
             return profName[0];
