@@ -2,8 +2,6 @@
 const addProfessorPopup = (professorName, profData) => {
   professorName.addEventListener("mouseover", (e) => {
     const target = e.target;
-    console.log("mouseover", target);
-  
     // Create a div for the popup container
     let popup = document.createElement("div");
     popup.className = "hover-popup"; // Optional: Keep the class name if you prefer, but not needed for styles
@@ -55,15 +53,11 @@ const addProfessorPopup = (professorName, profData) => {
     });
   });
 }
-
 var body = document.getElementsByTagName('body')[0];
 const observer = new MutationObserver(mutations => {
   console.log("Mutation detected" + mutations);
   const topScheduleButton = document.getElementsByClassName('sched-TopButtonEnabled')[3];
   topScheduleButton.addEventListener("click", () => {
-
-    console.log("Schedule button clicked");
-    // once data has been loaded
     // get all elements with course item mutations
     const courseItems = document.getElementsByClassName('permutationCourseItem');
     [...courseItems].forEach((courseItem) => {
@@ -84,7 +78,6 @@ const observer = new MutationObserver(mutations => {
               const sectionNameCheckbox = professorName.parentElement.getElementsByClassName("gwt-CheckBox")[0];
               const sectionName = sectionNameCheckbox.getElementsByTagName("label")[0];
               const sectionNameStr = removeParenthesesAtEnd(sectionName.innerText);
-              console.log(sectionName.innerText.includes("N/A"))
               if (professorData && !sectionName.innerText.includes("(")) {
                 sectionName.innerHTML = sectionNameStr + " (" + professorData.rating + "★)";
                 addProfessorPopup(professorName, professorData);

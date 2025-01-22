@@ -1,15 +1,14 @@
 let popup = document.createElement("div");
+chrome.runtime.sendMessage({text: 'getProfessorData', professorName: "profName"})
 
 addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
   const elem = event.target; 
   const profName = removeParenthesesAtEnd(getProfName(elem)); 
   console.log(profName);
   
-  if (!popup)
-    popup = document.createElement("div");
+  if (!popup) popup = document.createElement("div");
   popup.innerHTML = await printProfessorInfo(profName);
 
-  if (!popup) return;
   getProfessorInfoStyles(popup);
 
   const rect = elem.getBoundingClientRect();
@@ -26,7 +25,6 @@ function removeParenthesesAtEnd(str) {
 }
 
 addEventListenersToClass("permutationPeriodItem", "mouseleave", () => {
-  console.log("mouseout");
   if (popup)
     popup.remove();
   popup = null;
@@ -44,9 +42,6 @@ function getProfName(elem) {
                 clicked = true;
               }
             }
-
-
-
             const profName = Array.from(courses[i].getElementsByClassName("gwt-CheckBox")).filter(elem => elem.parentElement.style.cssText.includes("background-color")).map(elem => elem.parentElement.children[1].innerText)
             if(clicked) courses[i].children[0].children[0].children[0].children[0].click()
             return profName[0];
