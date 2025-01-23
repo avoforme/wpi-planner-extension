@@ -1,4 +1,6 @@
 let popup = document.createElement("div");
+//DO NOT TOUCH, IS IMPORTANT BUGFIX, CHROME RUNTIME FAILS ON FIRST RUN, THIS FIXES THAT
+// eslint-disable-next-line no-undef
 chrome.runtime.sendMessage({text: 'getProfessorData', professorName: "profName"})
 
 addEventListenersToClass("permutationPeriodItem", "mouseenter", async (event) => {
